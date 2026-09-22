@@ -1,0 +1,538 @@
+{
+    "language": "Indonesian",
+    "language_code": "ID",
+    "recurring_events": {
+        "04-21": [
+            {
+                "name": "Hari Kartini",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Kartini – 21 April\nRaden Adjeng Kartini (21 April 1879 – 17 September 1904)\nHari Kartini diperingati setiap 21 April untuk mengenang perjuangan Raden Adjeng Kartini, pelopor emansipasi perempuan Indonesia yang lahir pada tanggal tersebut di Jepara, Jawa Tengah.\nSebagai seorang perempuan bangsawan, Kartini berkesempatan mengenyam pendidikan di Europeesche Lagere School (ELS). Namun, sesuai adat Jawa, ia kemudian dipingit setelah remaja. Dalam keterbatasan itu, Kartini terus belajar secara mandiri dan aktif menulis surat kepada sahabat-sahabatnya di Belanda. Melalui korespondensi ini, ia mengungkapkan gagasan-gagasan visioner tentang kesetaraan gender, pentingnya pendidikan bagi perempuan, dan kritik terhadap sistem sosial feodal dan kolonial.\nSurat-surat Kartini kemudian dihimpun dalam buku Habis Gelap Terbitlah Terang, yang menjadi tonggak penting dalam sejarah pemikiran perempuan Indonesia. Ia juga sempat mendirikan sekolah untuk perempuan di Jepara sebagai bentuk nyata perjuangannya di bidang pendidikan.\nMeski wafat pada usia 25 tahun, pengaruh pemikiran Kartini sangat besar terhadap gerakan perempuan di Indonesia. Untuk menghormati jasanya, Presiden Soekarno menetapkan 21 April sebagai Hari Kartini melalui Keputusan Presiden No. 108 Tahun 1964.\nHari Kartini menjadi simbol perjuangan intelektual dan moral perempuan Indonesia, serta pengingat bahwa pendidikan dan kesadaran diri adalah kunci menuju kemerdekaan dan kesetaraan hak."
+            },
+            {
+                "name": "Hari testing",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "this is just an API testing nothing to worry about"
+            }
+        ],
+        "01-02": [
+            {
+                "name": "Hari Ulang Tahun Legiun Veteran RI",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Ulang Tahun Legiun Veteran Republik Indonesia (LVRI) – 2 Januari\nDiperingati setiap 2 Januari, Hari Ulang Tahun LVRI menghormati para pejuang kemerdekaan Indonesia yang tergabung dalam Legiun Veteran Republik Indonesia (LVRI). Meski secara resmi LVRI dibentuk melalui Keputusan Presiden pada 2 April 1957, penetapannya berlaku surut sejak 1 Januari 1957.\nTanggal 2 Januari dipilih sebagai hari ulang tahun karena merupakan hari terakhir Kongres I LVRI, yang berlangsung dari 22 Desember 1956 hingga 2 Januari 1957 di Decca Park, Jakarta. Kongres ini menjadi momen penting yang mempertemukan 2.300 veteran dari seluruh Indonesia dan mewakili lebih dari satu juta pejuang kemerdekaan.\nPemilihan tanggal 2 Januari menekankan pentingnya semangat kebersamaan dan perjuangan yang lahir dari akar rumput, bukan sekadar keputusan administratif. Hari ini menjadi simbol persatuan para veteran dan awal berdirinya organisasi yang sejak 1957 terus menjadi wadah resmi perjuangan dan penghormatan bagi jasa para pahlawan bangsa."
+            }
+        ],
+        "02-21": [
+            {
+                "name": "Hari Bahasa Ibu",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Bahasa Ibu Internasional – 21 Februari\nSetiap tanggal 21 Februari, dunia memperingati Hari Bahasa Ibu Internasional (International Mother Language Day \/ IMLD). Peringatan ini berakar dari peristiwa tragis yang terjadi di Bangladesh pada tahun 1952, ketika wilayah tersebut masih menjadi bagian dari Pakistan dan dikenal sebagai Pakistan Timur.\nSaat itu, pemerintah Pakistan berupaya menetapkan bahasa Urdu sebagai satu-satunya bahasa resmi negara, meskipun mayoritas penduduk Pakistan Timur dan sebagian besar wilayah lainnya menggunakan bahasa Bengali.\nPada 21 Februari 1952, sekelompok mahasiswa di Dhaka, Pakistan Timur (kini Bangladesh), menggelar aksi protes damai menentang kebijakan tersebut. Sayangnya, aksi ini berubah menjadi tragedi ketika aparat keamanan menembaki para demonstran, menewaskan lima orang mahasiswa dan melukai ratusan lainnya. Peristiwa tersebut dikenang di Bangladesh sebagai Hari Martir Bahasa (Language Martyrs' Day), simbol perjuangan hak atas bahasa ibu.\nMenyadari pentingnya bahasa dalam menjaga identitas dan keberagaman budaya, UNESCO (Organisasi Pendidikan, Ilmu Pengetahuan, dan Kebudayaan PBB) pada tahun 1999 menetapkan tanggal 21 Februari sebagai Hari Bahasa Ibu Internasional. Tujuan utama peringatan ini adalah mendorong pelestarian dan perlindungan semua bahasa yang digunakan di dunia, serta mempromosikan pendidikan multibahasa.\nHari ini juga menjadi pengingat bahwa banyak bahasa di dunia sedang menghadapi kepunahan. Menurut data UNESCO, terdapat sekitar 7.164 bahasa di dunia, dan hampir 40% di antaranya terancam punah—dengan satu bahasa hilang setiap dua minggu. Fakta ini menunjukkan betapa mendesaknya upaya pelestarian bahasa ibu sebagai bagian penting dari warisan budaya global.\nHari Bahasa Ibu Internasional adalah contoh nyata bagaimana perjuangan lokal atas hak linguistik dapat menjadi isu global yang diakui secara internasional. Peralihan dari Hari Martir Bahasa Nasional menjadi peringatan dunia mencerminkan bahwa bahasa bukan sekadar alat komunikasi, melainkan inti dari identitas budaya dan hak asasi manusia. Keterlibatan UNESCO menegaskan pentingnya pelestarian warisan linguistik, sekaligus memperkuat kesadaran global akan risiko kepunahan bahasa.\nPeringatan ini mengajak kita untuk mengingat bahwa identitas budaya sangat erat kaitannya dengan bahasa, dan menjaga kelestariannya adalah tanggung jawab kita bersama."
+            },
+            {
+                "name": "Hari Peduli Sampah Nasional (HPSN)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 21 Februari, Hari Peduli Sampah Nasional (HPSN) adalah momen penting untuk meningkatkan kesadaran dan kepedulian masyarakat Indonesia terhadap isu sampah. Peringatan ini dicetuskan untuk mengenang peristiwa tragis yang terjadi di Tempat Pembuangan Akhir (TPA) Leuwigajah, Cimahi, Jawa Barat, pada 21 Februari 2005.\nPeristiwa longsor sampah di TPA Leuwigajah tersebut menyebabkan lebih dari seratus jiwa melayang akibat tertimbun gunungan sampah. Tragedi ini menjadi pengingat keras akan darurat pengelolaan sampah di Indonesia dan mendorong perlunya upaya bersama untuk mengatasi permasalahan sampah secara serius. Kementerian Lingkungan Hidup dan Kehutanan (KLHK) kemudian menginisiasi HPSN untuk pertama kalinya pada tahun 2006.\nSejak saat itu, HPSN menjadi agenda nasional tahunan yang bertujuan untuk membangun kesadaran publik akan pentingnya pengurangan sampah (reduce), penggunaan kembali (reuse), dan daur ulang (recycle), serta mendorong pengelolaan sampah yang berkelanjutan. Peringatan ini juga menjadi momentum bagi pemerintah, komunitas, dan berbagai pihak untuk melakukan refleksi, evaluasi, serta merumuskan langkah-langkah konkret dalam penanganan sampah di Indonesia."
+            }
+        ],
+        "07-23": [
+            {
+                "name": "Hari Anak",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Anak Nasional – 23 Juli\nPerayaan Nasional Resmi Sejak 1979, Diresmikan oleh Presiden Soeharto\nHari Anak Nasional diperingati setiap tanggal 23 Juli di Indonesia sebagai bentuk penghargaan terhadap hak dan kesejahteraan anak-anak sebagai generasi penerus bangsa.\nGagasan awal mengenai peringatan ini muncul dari Kongres Perempuan Indonesia (Kowani). Bahkan, ide tersebut telah digaungkan sejak Kongres Perempuan Indonesia Pertama pada 22 Desember 1928, dan secara resmi diusulkan oleh Kowani pada tahun 1951. Perayaan perdana berlangsung pada 1952 dengan acara \"Pekan Kanak-Kanak\" di Istana Merdeka, disambut langsung oleh Presiden Soekarno.\nSeiring waktu, tanggal peringatan mengalami beberapa kali perubahan. Awalnya, \"Pekan Kanak-Kanak\" diadakan setiap minggu kedua bulan Juli. Pada 1959, sempat ditetapkan tanggal 1–3 Juni sebagai Hari Anak, bertepatan dengan ulang tahun Presiden Soekarno dan Hari Anak Internasional. Namun, pada masa Orde Baru, Presiden Soeharto menetapkan 23 Juli sebagai Hari Anak Nasional. Tanggal ini dipilih karena bertepatan dengan disahkannya Undang-Undang Kesejahteraan Anak pada 23 Juli 1979, dan dikukuhkan melalui Keppres Nomor 44 Tahun 1984.\nHari Anak Nasional bukan hanya seremonial, tapi juga menjadi momentum penting untuk:\nMeningkatkan kesadaran publik terhadap hak-hak anak, termasuk hak atas pendidikan, perlindungan, dan partisipasi;\nMendorong kolaborasi lintas sektor untuk memperjuangkan kesejahteraan anak;\nMenunjukkan komitmen negara secara legal dalam melindungi anak-anak, melalui pendekatan berbasis hukum dan kebijakan publik.\nPerubahan tanggal peringatan dari yang semula bersifat simbolik menjadi berbasis legal ini mencerminkan kematangan negara dalam menginstitusionalisasikan perlindungan anak. Dengan begitu, Hari Anak Nasional tidak sekadar menjadi bentuk penghormatan terhadap masa depan, tapi juga penegasan tanggung jawab negara dan masyarakat terhadap masa kini."
+            }
+        ],
+        "11-10": [
+            {
+                "name": "Hari Pahlawan",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Sejarah Hari Pahlawan – 10 November\nHari Pahlawan diperingati setiap tanggal 10 November untuk mengenang Pertempuran Surabaya, salah satu momen paling heroik dalam sejarah perjuangan kemerdekaan Indonesia. Pertempuran ini meletus pada 10 November 1945, sebagai reaksi rakyat Surabaya terhadap kedatangan pasukan Sekutu dan Belanda (NICA) yang berusaha mengembalikan kekuasaan kolonial, hanya beberapa bulan setelah Proklamasi Kemerdekaan 17 Agustus 1945.\nAwalnya, pasukan Sekutu (terutama Inggris) datang ke Surabaya untuk membebaskan tawanan perang dan melucuti tentara Jepang. Namun, kenyataannya, mereka datang bersama NICA yang berniat mengambil alih kembali kekuasaan atas Indonesia. Kehadiran ini memicu ketegangan dengan rakyat Surabaya.\nPeristiwa Pemicu:\nKetegangan memuncak pada 19 September 1945, saat pemuda-pemuda Indonesia merobek bagian biru bendera Belanda di Hotel Oranje (kini Hotel Majapahit), menyisakan warna merah-putih. Aksi ini menjadi simbol perlawanan rakyat Surabaya terhadap kembalinya kolonialisme Belanda.\nKedatangan Sekutu dan Tewasnya Mallaby:\nPada 25 Oktober 1945, pasukan Sekutu di bawah Brigadir Jenderal A.W.S. Mallaby mendarat di Surabaya. Meskipun sempat tercapai kesepakatan damai, ketegangan tetap berlangsung. Puncaknya terjadi pada 30 Oktober 1945, ketika Mallaby tewas dalam sebuah insiden di sekitar Jembatan Merah. Kematian ini menjadi titik balik dan pemicu serangan besar-besaran dari pihak Inggris.\nUltimatum dan Perlawanan:\nPada 9 November, Jenderal Robert Mansergh mengeluarkan ultimatum kepada rakyat Surabaya agar menyerah. Namun, tokoh-tokoh nasionalis seperti Bung Tomo justru mengobarkan semangat perlawanan melalui siaran radio. Rakyat Surabaya menolak tunduk, dan bersiap mempertahankan kota.\nPertempuran Besar 10 November 1945:\nTepat pada 10 November, pasukan Inggris melancarkan serangan darat, laut, dan udara ke Surabaya. Meski kalah dari segi persenjataan dan jumlah, sekitar 100.000–120.000 pejuang Indonesia dari Tentara Keamanan Rakyat (TKR) dan milisi rakyat bertempur dengan gagah berani. Pertempuran berlangsung selama tiga minggu, menelan korban hingga 15.000 jiwa dari pihak Indonesia, serta menyebabkan ratusan ribu warga sipil mengungsi.\nDampak dan Makna:\nWalau kalah secara militer, perlawanan rakyat Surabaya menjadi kemenangan moral dan strategis bagi perjuangan Indonesia. Pertempuran ini mengubah pandangan internasional, meyakinkan dunia bahwa Republik Indonesia adalah gerakan nasional yang sah dan didukung rakyat. Bahkan Inggris kemudian menarik diri dan mengambil posisi lebih netral dalam konflik Indonesia-Belanda.\nPeringatan Hari Pahlawan secara resmi ditetapkan melalui Keputusan Presiden Nomor 316 Tahun 1959, tertanggal 16 Desember 1959. Untuk mengenang perjuangan itu, Monumen Tugu Pahlawan dibangun di Surabaya.\nHari Pahlawan bukan sekadar mengenang pertempuran, melainkan penghormatan terhadap semangat, keberanian, dan pengorbanan rakyat dalam mempertahankan kemerdekaan. Ini menegaskan bahwa identitas nasional Indonesia terbentuk dari perjuangan kolektif, dan bahwa kekalahan militer pun dapat menjadi kemenangan moral yang menggema hingga panggung internasional."
+            }
+        ],
+        "12-22": [
+            {
+                "name": "Hari Ibu",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Ibu – 22 Desember\nHari Ibu di Indonesia diperingati setiap tanggal 22 Desember sebagai bentuk penghormatan atas perjuangan perempuan dalam membangun bangsa. Penetapannya sebagai hari nasional dilakukan oleh Presiden Soekarno melalui Keputusan Presiden No. 316 Tahun 1959, bertepatan dengan peringatan 25 tahun Kongres Perempuan Indonesia pertama yang berlangsung pada 22–25 Desember 1928 di Yogyakarta.\nKongres ini dihadiri oleh sekitar 30 organisasi perempuan dari berbagai kota di Jawa dan Sumatra, dan menjadi tonggak penting dalam sejarah gerakan perempuan Indonesia. Para tokoh perempuan terinspirasi oleh pejuang-pejuang seperti Kartini, Dewi Sartika, dan Cut Nyak Meutia untuk memperjuangkan hak-hak perempuan, terutama dalam pendidikan dan pernikahan.\nBerbeda dari Mother's Day yang dirayakan secara global pada bulan Mei dan berfokus pada peran ibu dalam keluarga, Hari Ibu di Indonesia memiliki makna historis yang lebih luas. Peringatan ini merupakan simbol perjuangan perempuan dalam meraih kesetaraan, emansipasi, dan peran aktif dalam kehidupan sosial serta pembangunan nasional.\nHari Ibu di Indonesia bukan hanya tentang kasih sayang terhadap sosok ibu, tapi juga bentuk apresiasi terhadap kontribusi perempuan dalam segala aspek kehidupan—baik domestik maupun publik. Ini adalah hari untuk mengenang perjuangan, membangun kesadaran gender, dan mendorong peran aktif perempuan dalam masyarakat."
+            }
+        ],
+        "03-08": [
+            {
+                "name": "Hari Perempuan",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Perempuan Internasional – 8 Maret\nDiperingati setiap 8 Maret, Hari Perempuan Internasional adalah momen untuk menghormati perjuangan perempuan dalam meraih kesetaraan hak dan kesempatan.\nPeringatan ini berawal dari aksi protes 15.000 perempuan di New York pada tahun 1908 yang menuntut hak pilih, upah layak, dan jam kerja yang manusiawi. Setahun kemudian, pada 28 Februari 1909, Partai Sosialis Amerika menggelar Hari Perempuan Nasional.\nGagasan untuk menjadikan peringatan ini berskala internasional muncul pada tahun 1910 lewat Clara Zetkin dalam Konferensi Perempuan Pekerja di Kopenhagen. Hari Perempuan Internasional pertama kali dirayakan di beberapa negara Eropa pada 19 Maret 1911.\nTanggal 8 Maret mulai digunakan secara luas setelah aksi demonstrasi perempuan di Petrograd, Rusia, pada 8 Maret 1917. Aksi ini menuntut “roti dan perdamaian” di tengah Perang Dunia I dan menjadi pemicu Revolusi Rusia. Sejak itu, tanggal tersebut dijadikan hari libur nasional di Soviet dan semakin dikenal secara global.\nPBB mulai memperingatinya pada 1975 dan secara resmi mengakui 8 Maret sebagai Hari Perempuan Internasional pada 1977.\nKini, Hari Perempuan Internasional menjadi simbol perjuangan panjang perempuan untuk kesetaraan, dari isu buruh hingga hak-hak sosial dan politik. Ini adalah hari untuk merayakan pencapaian yang telah diraih sekaligus menyerukan perubahan bagi masa depan yang lebih setara."
+            }
+        ],
+        "03-21": [
+            {
+                "name": "Hari Down Syndrome",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Down Syndrome Sedunia – 21 Maret\nDiperingati setiap 21 Maret, Hari Down Syndrome Sedunia bertujuan meningkatkan kesadaran dan mendorong inklusi serta perlakuan yang setara bagi penyandang Down Syndrome di seluruh dunia.\nTanggal 21 Maret dipilih karena mencerminkan karakteristik utama kondisi ini, yaitu keberadaan tiga salinan kromosom ke-21 (trisomi 21). Down Syndrome adalah kondisi genetik yang menyebabkan kelebihan kromosom, sehingga memengaruhi perkembangan fisik dan intelektual seseorang.\nHari ini diresmikan oleh PBB pada tahun 2011 dan mulai diperingati secara global sejak 2012. Fokus peringatannya telah berkembang, dari sekadar edukasi medis menjadi perjuangan hak asasi manusia. Penyandang Down Syndrome masih sering mengalami diskriminasi, stereotip, dan perlakuan yang merendahkan—termasuk terbatasnya akses ke pendidikan, pekerjaan, dan layanan kesehatan yang layak.\nPeringatan ini menjadi pengingat bahwa setiap individu berhak untuk dihargai, dihormati, dan diikutsertakan dalam kehidupan sosial secara penuh. Bukan hanya tentang memahami kondisi genetiknya, tapi juga soal memperjuangkan hak, martabat, dan tempat yang setara di masyarakat."
+            }
+        ],
+        "08-14": [
+            {
+                "name": "Hari Praja Muda Karana (Pramuka)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Praja Muda Karana (Pramuka) – 14 Agustus\nPerayaan Nasional untuk Memperingati Gerakan Kepanduan Indonesia\nHari Pramuka diperingati setiap tanggal 14 Agustus sebagai penghormatan atas parade publik pertama Gerakan Pramuka Indonesia pada tahun 1961.\nSejarah kepanduan di Indonesia sudah ada sejak masa Hindia Belanda, dimulai pada 1912. Indonesia resmi menjadi anggota World Organization of the Scout Movement (WOSM) pada 1953.\nTonggak penting terjadi pada 9 Maret 1961, saat Presiden Soekarno merestui penyatuan semua organisasi Pramuka dan Pandu menjadi satu gerakan nasional. Hal ini diperkuat lewat Peraturan Presiden yang ditandatangani pada 20 Mei 1961, yang secara resmi menyatakan Gerakan Pramuka sebagai organisasi resmi penerus seluruh gerakan kepanduan sebelumnya. Peluncuran resmi dilakukan pada 30 Juli 1961.\nTanggal 14 Agustus dipilih sebagai Hari Pramuka karena menandai parade publik pertama Gerakan Pramuka. Pada acara itu, pahlawan kemerdekaan Sultan Hamengkubuwono IX diangkat sebagai Ketua Pramuka pertama. Nama \"Pramuka\" adalah singkatan dari \"Praja Muda Karana\" yang berarti \"Rakyat Muda yang Suka Berkarya\". Namun, kata \"Pramuka\" awalnya berasal dari istilah Jawa \"poromuko\", artinya \"prajurit garis depan\", yang diusulkan langsung oleh Hamengkubuwono IX.\nTujuan Gerakan Pramuka adalah membentuk karakter anak muda yang tangguh, berani, dan cinta tanah air. Kegiatan Pramuka mengajarkan keterampilan hidup seperti bertahan di alam, kerja sama tim, dan nilai moral penting. Salam militer Pramuka adalah penghormatan kepada para pemuda pejuang pendiri organisasi saat Revolusi Nasional Indonesia.\nPramuka pernah menjadi kegiatan ekstrakurikuler wajib dalam Kurikulum 2013, tetapi mulai 2024, partisipasi siswa tidak diwajibkan meskipun tetap ditawarkan oleh sekolah.\nPerkembangan makna \"Pramuka\" dari \"prajurit garis depan\" menjadi \"rakyat muda yang suka berkarya\" menggambarkan perubahan fokus gerakan dari semangat revolusioner menjadi peran produktif membangun bangsa. Salam militer tetap dipertahankan sebagai penghormatan terhadap akar sejarahnya."
+            }
+        ],
+        "08-18": [
+            {
+                "name": "Hari Konstitusi Republik Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Konstitusi Republik Indonesia – 18 Agustus\nHari Konstitusi Indonesia diperingati setiap 18 Agustus. Tanggal ini dipilih karena pada 18 Agustus 1945, Undang-Undang Dasar 1945 (UUD 1945) pertama kali diumumkan oleh Panitia Persiapan Kemerdekaan Indonesia (PPKI).\nPerumusan konstitusi dimulai oleh Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia (BPUPKI) yang bekerja dari 29 Mei sampai 16 Juni 1945. Mereka merancang dasar negara dan konstitusi, salah satunya adalah Piagam Jakarta yang jadi dasar awal. Pada 18 Agustus 1945, Panitia Sembilan yang dipimpin Soekarno dan Hatta mengumumkan teks Konstitusi yang dikenal sebagai \"Pembukaan UUD 1945\", berisi prinsip dasar negara termasuk Pancasila. UUD 1945 kemudian resmi menjadi konstitusi Indonesia oleh PPKI.\nSejak itu, UUD 1945 sudah beberapa kali diubah untuk menyesuaikan dengan zaman dan kebutuhan bangsa. Hari Konstitusi resmi ditetapkan pada 10 September 2008 oleh Presiden Susilo Bambang Yudhoyono lewat Keputusan Presiden Nomor 18 Tahun 2008. Peringatan ini dilakukan tiap tahun, tapi bukan hari libur nasional.\nHari Konstitusi penting untuk mengingat tanggal 18 Agustus 1945 sebagai momen penting pengumuman konstitusi. Tujuannya juga untuk meningkatkan kesadaran masyarakat akan pentingnya hukum dasar negara dalam pemerintahan yang adil dan menghormati hak asasi manusia. Hari ini juga mendorong belajar konstitusi di kalangan muda dan masyarakat umum, agar paham pentingnya kerangka hukum yang kuat untuk keadilan dan memperkuat persatuan nasional.\nPemilihan tanggal 18 Agustus, sehari setelah proklamasi kemerdekaan, menunjukkan betapa pentingnya membangun landasan hukum yang kuat bagi negara baru. Penetapan hari peringatan pada 2008 menunjukkan bahwa penghormatan dan kesadaran akan konstitusi sebagai pilar demokrasi membutuhkan waktu untuk berkembang dan jadi bagian penting dalam politik bangsa. Peringatan ini bukan hanya soal sejarah, tapi juga komitmen terus-menerus pada hukum dan demokrasi."
+            }
+        ],
+        "10-01": [
+            {
+                "name": "Hari Kesaktian Pancasila",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Kesaktian Pancasila – 1 Oktober\nSetiap tanggal 1 Oktober, Indonesia memperingati Hari Kesaktian Pancasila, meski bukan hari libur nasional. Hari ini dibuat untuk mengenang kegagalan kudeta Gerakan 30 September 1965 (G30S\/PKI) yang mengancam ideologi dan persatuan bangsa. Kegagalan itu dianggap bukti kekuatan atau “kesaktian” Pancasila sebagai dasar negara.\nAwalnya, Hari Kesaktian Pancasila hanya diperingati oleh TNI Angkatan Darat untuk mengenang para perwira yang gugur saat peristiwa G30S. Setelah Soeharto menjadi presiden pada 1967, ia menetapkan hari ini secara nasional lewat Keputusan Presiden Nomor 153 Tahun 1967. Soeharto mengadakan apel militer setiap 1 Oktober dan mengajak masyarakat untuk menjalankan Pancasila dan UUD 1945 secara murni dan konsisten.\nPeringatan ini menegaskan Pancasila sebagai dasar yang menyatukan seluruh bangsa Indonesia. Monumen Pancasila Sakti dibangun untuk mengenang para Pahlawan Revolusi yang berjuang mempertahankan ideologi negara dari ancaman komunis. Melalui peringatan ini, diharapkan semua warga menjaga dan mengamalkan Pancasila agar persatuan dan kemajuan bangsa terus terjaga serta menumbuhkan rasa nasionalisme dan patriotisme.\nSebagai penghormatan, masyarakat dianjurkan mengibarkan bendera Merah Putih setengah tiang pada 30 September, lalu dikibarkan penuh pada 1 Oktober.\nHari Kesaktian Pancasila juga mencerminkan ideologi Orde Baru yang menjadikan peristiwa G30S\/PKI sebagai bukti kegagalan komunisme dan kekuatan Pancasila. Ritual dan simbol seperti pengibaran bendera menjadi cara negara membentuk memori dan memperkuat legitimasi kekuasaan. Hari ini berfungsi sebagai narasi politik yang menegaskan Pancasila sebagai ideologi yang menang atas tantangan komunisme, sekaligus menyatukan bangsa dan mencegah kebangkitan ancaman serupa."
+            }
+        ],
+        "10-28": [
+            {
+                "name": "Hari Sumpah Pemuda",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Sejarah Hari Sumpah Pemuda – 28 Oktober\nTanggal 28 Oktober diperingati sebagai Hari Sumpah Pemuda, menandai ikrar para pemuda Indonesia untuk bersatu dalam satu bangsa, satu tanah air, dan satu bahasa. Ikrar ini lahir dari Kongres Pemuda II yang digagas oleh Persatuan Pelajar-Pelajar Indonesia (PPPI) dan dihadiri organisasi pemuda dari seluruh Nusantara, seperti Jong Java, Jong Sumatranen Bond, Jong Bataks Bond, Pemoeda Indonesia, Jong Islamieten Bond, Jong Celebes, Sekar Rukun, Jong Ambon, dan Pemuda Kaum Betawi.\nKongres berlangsung selama dua hari, 27–28 Oktober 1928, di tiga gedung berbeda, dengan tiga sesi rapat utama:\nRapat Pertama (27 Oktober 1928)\nDiselenggarakan di Gedung Katholieke Jongenlingen Bond (KJB), Lapangan Banteng. Soegondo Djojopoespito (Ketua PPPI) berharap kongres memperkuat semangat persatuan pemuda. Mohammad Yamin (Sekretaris kongres) menjelaskan lima faktor penguat persatuan: sejarah, bahasa, hukum adat, pendidikan, dan kemauan.\nRapat Kedua (28 Oktober 1928)\nBerlangsung di Gedung Oost-Java Bioscoop, membahas pendidikan. Poernomowoelan dan Sarmidi Mangoensarkoro menekankan pentingnya pendidikan kebangsaan yang demokratis dan keseimbangan pendidikan di sekolah dan rumah.\nRapat Ketiga (28 Oktober 1928)\nDi Gedung Indonesische Clubhuis Keramat (sekarang Gedung Sumpah Pemuda). Soenario mengangkat pentingnya nasionalisme, demokrasi, dan gerakan kepanduan. Ramelan menambahkan bahwa gerakan kepanduan erat kaitannya dengan pergerakan nasional karena mendidik anak-anak menjadi disiplin dan mandiri.\nSebelum penutupan kongres, W.R. Supratman memainkan lagu ciptaannya, Indonesia Raya, secara instrumental yang kemudian menjadi lagu kebangsaan Indonesia.\nPada rapat ini juga diumumkan rumusan Sumpah Pemuda, yang diucapkan sebagai ikrar setia para pemuda:\n1. \nKami poetra dan poetri Indonesia, mengakoe bertoempah darah jang satoe, tanah Indonesia.\n2. \nKami poetra dan poetri Indonesia mengakoe berbangsa jang satoe, bangsa Indonesia.\n3. \nKami poetra dan poetri Indonesia mendjoendjoeng bahasa persatoean, bahasa Indonesia.\nSumpah Pemuda memiliki arti besar bagi perjuangan nasional Indonesia. Ikrar ini menyatukan bangsa, menegaskan Bahasa Indonesia sebagai bahasa persatuan yang mampu menyerap kosakata dari berbagai bahasa daerah, serta menjaga keutuhan bangsa. Semangat ini diharapkan membawa generasi muda menuju kemajuan bangsa.\nSumpah Pemuda merupakan deklarasi identitas nasional yang revolusioner karena lahir sebelum kemerdekaan fisik Indonesia. Ini menandakan bahwa bangsa Indonesia terbentuk dari kesadaran kolektif dan ikrar ideologis para pemuda, melampaui loyalitas etnis dan daerah di bawah penjajahan kolonial. Sumpah ini menjadi cetak biru dan kompas moral perjuangan kemerdekaan, menegaskan kekuatan visi bersama dan identitas kolektif. Pencantuman Bahasa Indonesia sebagai bahasa pemersatu menunjukkan visi jauh ke depan yang meletakkan dasar persatuan linguistik di kepulauan yang beragam."
+            }
+        ],
+        "11-25": [
+            {
+                "name": "Hari Guru (PGRI)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Guru Nasional – 25 November\nHari Guru Nasional diperingati setiap 25 November untuk menghargai peran penting guru dalam dunia pendidikan Indonesia. Akar peringatan ini berasal dari perjuangan para guru sejak zaman kolonial. Pada 1912, didirikan Persatuan Guru Hindia Belanda (PGHB) untuk membela hak dan kesejahteraan guru pribumi di tengah diskriminasi kolonial. Saat pendudukan Jepang, organisasi “Guru” dibentuk tahun 1943 sebagai simbol persatuan guru Indonesia.\nSetelah Indonesia merdeka, para guru dari berbagai organisasi pendidikan menggelar Kongres Pendidik Bangsa pada 24–25 November 1945 di Surakarta. Dari sinilah lahir Persatuan Guru Republik Indonesia (PGRI) sebagai wadah persatuan guru untuk mendukung kemerdekaan dan memajukan pendidikan nasional.\nDalam kongres tersebut, PGRI merumuskan tiga tujuan utama: memperkuat Republik Indonesia, meningkatkan mutu pendidikan berbasis kerakyatan, dan memperjuangkan nasib para buruh dan guru.\nPengakuan resmi terhadap guru datang pada tahun 1994 lewat Keputusan Presiden No. 78 Tahun 1994, yang menetapkan 25 November sebagai Hari Guru Nasional, bertepatan dengan hari lahir PGRI. Pengakuan ini ditegaskan lagi lewat UU No. 14 Tahun 2005 tentang Guru dan Dosen.\nMeski ditetapkan hampir 50 tahun setelah PGRI berdiri, Hari Guru Nasional menunjukkan apresiasi yang makin besar terhadap kontribusi guru dalam membangun bangsa. Ini menandai pergeseran fokus negara dari perjuangan kemerdekaan ke pembangunan jangka panjang lewat pendidikan."
+            }
+        ],
+        "12-03": [
+            {
+                "name": "Hari Disabilitas",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Penyandang Disabilitas Internasional – 3 Desember\nSetiap tanggal 3 Desember, dunia memperingati Hari Penyandang Disabilitas Internasional untuk meningkatkan kesadaran dan mendukung hak serta kesejahteraan penyandang disabilitas. Peringatan ini ditetapkan oleh PBB pada tahun 1992 lewat Resolusi Majelis Umum 47\/3.\nTujuan utamanya adalah mendorong pemahaman terhadap isu disabilitas, serta mengajak dunia bergerak bersama dalam menciptakan lingkungan yang inklusif. Krisis global yang terjadi belakangan ini membuat target Tujuan Pembangunan Berkelanjutan (SDGs) bagi penyandang disabilitas semakin sulit tercapai, sehingga perlu adanya percepatan dan komitmen yang lebih kuat.\nPBB menegaskan pentingnya perubahan besar dalam pendanaan, kebijakan, dan aksi nyata demi terciptanya inklusi. Dalam KTT SDGs terbaru, para pemimpin dunia menegaskan kembali komitmennya untuk membangun masa depan yang lebih adil dan inklusif, termasuk bagi penyandang disabilitas. Sejalan dengan itu, PBB juga meluncurkan Strategi Inklusi Disabilitas pada 2019 sebagai panduan untuk memastikan seluruh kerja organisasi ramah disabilitas, baik di tingkat pusat maupun lapangan.\nPeringatan ini juga menandai perubahan cara pandang dunia terhadap disabilitas, dari yang dulunya berbasis belas kasihan menjadi pendekatan berbasis hak asasi manusia. Disabilitas bukan lagi dianggap sebagai masalah individu, melainkan sebagai isu sosial yang butuh penghapusan hambatan agar semua orang bisa berpartisipasi setara dalam masyarakat."
+            }
+        ],
+        "09-30": [
+            {
+                "name": "Hari Peringatan Pemberontakan G30S\/PKI",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Peringatan G30S\/PKI – 30 September\nGerakan 30 September (G30S\/PKI) adalah peristiwa penting dan kelam dalam sejarah Indonesia yang terjadi pada malam 30 September menuju 1 Oktober 1965. Kelompok anggota Angkatan Bersenjata Nasional Indonesia yang dipimpin oleh Letnan Kolonel Untung Syamsuri melakukan upaya kudeta dengan menculik dan membunuh enam jenderal dan satu perwira Angkatan Darat.\nTujuh jenderal yang menjadi target adalah Letnan Jenderal Ahmad Yani, Mayor Jenderal M. T. Haryono, Brigadir Jenderal D. I. Pandjaitan, Mayor Jenderal Soeprapto, Mayor Jenderal S. Parman, Brigadir Jenderal Sutoyo, dan Letnan Satu Pierre Tendean (ajudan Jenderal Nasution yang salah dikira sebagai Nasution). Tiga jenderal dibunuh di rumah mereka, yang lain diculik. Jenderal Nasution berhasil melarikan diri, tapi putrinya meninggal tertembak. Jasad para korban ditemukan di Lubang Buaya, Jakarta. Di Jawa Tengah, dua perwira juga diculik dan dibunuh.\nSetelah kejadian ini, Suharto dan kelompoknya menuduh PKI sebagai dalang. Demonstrasi dan kekerasan anti-PKI menyebar luas, menyebabkan ratusan ribu hingga jutaan orang tewas. Peristiwa ini menjadi awal kejatuhan Presiden Soekarno dan naiknya Suharto ke kekuasaan.\nG30S\/PKI bukan hanya upaya kudeta, tapi juga memicu perubahan politik besar dan kekerasan masif yang menandai era Orde Baru. Tuduhan terhadap PKI digunakan rezim baru untuk memperkuat kekuasaan dan menekan lawan politik. Hari peringatan ini menjadi simbol penting dalam ingatan nasional, meski interpretasinya dipengaruhi kepentingan politik pemerintah saat itu."
+            }
+        ],
+        "01-04": [
+            {
+                "name": "Hari Braille",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Braille Sedunia – 4 Januari\nLouis Braille (4 Januari 1809 – 6 Januari 1852)\nDiperingati setiap tanggal 4 Januari, Hari Braille Sedunia ditetapkan secara resmi oleh Perserikatan Bangsa-Bangsa (PBB) dan mulai dirayakan sejak tahun 2019. Tanggal ini dipilih untuk menghormati hari lahir penemunya, Louis Braille, seorang tunanetra asal Prancis yang menciptakan sistem baca-tulis Braille pada abad ke-19.\nSistem Braille menggunakan kombinasi enam titik timbul yang mewakili huruf, angka, tanda baca, bahkan simbol musik dan matematika. Dengan sistem ini, individu tunanetra dapat membaca dan menulis secara mandiri, menjadikannya alat revolusioner dalam dunia aksesibilitas.\nPBB dan UNESCO memainkan peran penting dalam penyebaran Braille secara global. Sejak 1949, UNESCO telah membantu menyusun standar Braille lintas bahasa, agar penggunaannya dapat disesuaikan dan diakses oleh lebih banyak orang di seluruh dunia.\nLebih dari sekadar metode baca-tulis, Braille diakui dalam Konvensi Hak-Hak Penyandang Disabilitas PBB sebagai sarana vital dalam pendidikan, kebebasan berekspresi, dan partisipasi sosial. Braille adalah jembatan menuju kemandirian dan kesetaraan.\nPenetapan Hari Braille Sedunia lebih dari 100 tahun setelah penemuan sistemnya mencerminkan perjuangan panjang dalam membangun kesadaran global tentang pentingnya aksesibilitas. Bahkan selama pandemi COVID-19, berbagai badan PBB menegaskan kembali urgensi penyediaan informasi dalam format Braille sebagai bentuk inklusi di masa krisis.\nHari Braille Sedunia bukan hanya penghormatan atas warisan Louis Braille, tetapi juga momentum untuk memperjuangkan akses informasi dan hak-hak penyandang disabilitas secara adil dan setara di seluruh dunia."
+            }
+        ],
+        "05-02": [
+            {
+                "name": "Hari Pendidikan Nasional (hardiknas)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Pendidikan Nasional – 2 Mei\nKi Hajar Dewantara (2 Mei 1889 – 26 April 1959)\nHari Pendidikan Nasional (Hardiknas) diperingati setiap tanggal 2 Mei di Indonesia, meskipun bukan merupakan hari libur nasional. Tanggal ini dipilih secara khusus karena bertepatan dengan hari lahir pahlawan nasional Ki Hajar Dewantara, tokoh pelopor pendidikan di Indonesia.\nKi Hajar Dewantara, yang lahir dengan nama Raden Mas Soewardi Soerjaningrat, berasal dari keluarga bangsawan Pakualaman di Yogyakarta. Ia dikenal karena perjuangannya melawan sistem pendidikan kolonial Belanda yang diskriminatif dan hanya terbuka bagi kalangan elit. Tulisan-tulisannya yang kritis terhadap penjajahan membuatnya diasingkan ke Belanda.\nSetelah kembali ke tanah air, pada 3 Juli 1922 ia mendirikan Perguruan Taman Siswa, sebuah lembaga pendidikan untuk rakyat pribumi. Ia memperkenalkan sistem pendidikan “among” yang menekankan kebebasan belajar, kedekatan emosional antara guru dan murid, serta semangat nasionalisme. Filosofinya yang terkenal, “Tut Wuri Handayani” (“di belakang memberi dorongan”), kini menjadi semboyan resmi pendidikan nasional Indonesia.\nKi Hajar Dewantara wafat pada 26 April 1959. Untuk menghormati jasa-jasanya, pemerintah Indonesia menetapkan tanggal lahirnya sebagai Hari Pendidikan Nasional melalui Keputusan Presiden No. 316 Tahun 1959.\nPeringatan Hardiknas menekankan pentingnya pendidikan sebagai pilar utama kemajuan bangsa. Pemilihan tanggal lahir Ki Hajar, bukan tanggal pendirian institusinya atau tanggal wafatnya, menandakan bahwa negara menghormati nilai-nilai dan semangat perjuangan individu sebagai fondasi filosofi pendidikan nasional. Hari ini bukan sekadar mengenang sosok, tetapi juga momentum untuk merefleksikan arah dan tujuan pendidikan Indonesia ke depan."
+            }
+        ],
+        "02-20": [
+            {
+                "name": "Hari Pekerja Nasional (Harpekindo)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Pekerja Indonesia (Harpekindo) – 20 Februari\nDiperingati setiap tanggal 20 Februari, Hari Pekerja Indonesia (Harpekindo) merupakan momen untuk menghormati dan mengakui kontribusi para pekerja dalam pembangunan bangsa. Penetapan Harpekindo sebagai hari peringatan nasional dilakukan melalui Keputusan Presiden (Keppres) Nomor 9 Tahun 1991 yang dikeluarkan pada tanggal 20 Februari 1991.\nPemilihan tanggal 20 Februari memiliki makna historis yang mendalam, karena bertepatan dengan Deklarasi Persatuan Buruh Indonesia pada 20 Februari 1973. Peristiwa ini dianggap sebagai tonggak penting bersatunya berbagai elemen pekerja di Indonesia. Pada tanggal yang sama juga terbentuk Federasi Buruh Seluruh Indonesia (FBSI), yang kemudian pada tahun 1985 bertransformasi menjadi Serikat Pekerja Seluruh Indonesia (SPSI).\nHarpekindo bertujuan untuk menyatukan kaum pekerja, menumbuhkan jati diri serta kebanggaan, dan memotivasi pengabdian mereka dalam pembangunan nasional yang berlandaskan sistem Hubungan Industrial Pancasila. Penting untuk dicatat bahwa meskipun merupakan hari peringatan nasional, Harpekindo bukanlah hari libur nasional dan berbeda dengan Hari Buruh Internasional (May Day) yang diperingati setiap 1 Mei."
+            }
+        ],
+        "01-25": [
+            {
+                "name": "Hari Gizi Nasional Indonesia.",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 25 Januari, Hari Gizi Nasional Indonesia (HGN) merupakan momentum penting untuk meningkatkan kesadaran dan kepedulian masyarakat terhadap isu gizi serta upaya perbaikan gizi bangsa. Sejarah peringatan ini tidak terlepas dari dimulainya pengkaderan tenaga gizi Indonesia dengan berdirinya Sekolah Djuru Penerang Makanan oleh Lembaga Makanan Rakjat (LMR) pada 25 Januari 1951.\nLembaga Makanan Rakjat, yang saat itu dipimpin oleh Prof. Poorwo Soedarmo, dikenal sebagai Bapak Gizi Indonesia, memainkan peran sentral dalam peletakan dasar ilmu gizi di tanah air. Tanggal berdirinya sekolah tersebut kemudian disepakati sebagai Hari Gizi Nasional oleh Persatuan Ahli Gizi Indonesia (PERSAGI) dan organisasi terkait lainnya, sebagai pengakuan atas dimulainya upaya formal dalam pengembangan tenaga profesional di bidang gizi. Peringatan ini pertama kali diadakan oleh LMR pada pertengahan tahun 1960-an dan kemudian dilanjutkan oleh Direktorat Gizi Masyarakat sejak tahun 1970-an.\nSetiap tahunnya, Hari Gizi Nasional mengangkat tema yang berbeda, disesuaikan dengan isu dan tantangan gizi terkini yang dihadapi Indonesia. Tujuannya adalah untuk terus mendorong komitmen dan partisipasi berbagai pihak, mulai dari pemerintah, akademisi, organisasi profesi, swasta, hingga masyarakat luas, dalam mewujudkan status gizi masyarakat yang optimal dan berkualitas demi terciptanya generasi penerus bangsa yang sehat, cerdas, dan produktif."
+            }
+        ],
+        "01-03": [
+            {
+                "name": "Hari Amal Bakti Kementerian Agama (Kemenag)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 3 Januari, Hari Amal Bakti (HAB) Kementerian Agama merupakan hari ulang tahun berdirinya Kementerian Agama Republik Indonesia. Peringatan ini menjadi momen refleksi atas perjalanan dan pengabdian kementerian tersebut dalam melayani kehidupan beragama di Indonesia.\nPenetapan tanggal 3 Januari sebagai HAB Kemenag merujuk pada tanggal resmi berdirinya Departemen Agama (kini Kementerian Agama) pada 3 Januari 1946. Pembentukan Departemen Agama ini berdasarkan Penetapan Pemerintah No.1\/S.D. Tahun 1946. Usulan pembentukan departemen tersendiri yang mengurusi bidang keagamaan sebenarnya sudah muncul sejak sidang Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia (BPUPKI) oleh Mohammad Yamin, namun belum disepakati saat itu. Barulah dalam sidang Komite Nasional Indonesia Pusat (KNIP) pada 25-27 November 1945, usulan ini kembali menguat dan akhirnya disetujui oleh Presiden Soekarno."
+            }
+        ],
+        "01-05": [
+            {
+                "name": "Hari Korps Wanita Angkatan Laut (KOWAL)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 5 Januari, Hari Korps Wanita Angkatan Laut (KOWAL) menandai hari lahirnya satuan wanita dalam jajaran Tentara Nasional Indonesia Angkatan Laut (TNI AL). Peringatan ini menjadi momen untuk menghargai peran, dedikasi, dan kontribusi para wanita prajurit laut bagi bangsa dan negara.\nPembentukan KOWAL secara resmi terjadi pada tanggal 5 Januari 1963, berdasarkan Surat Keputusan (SK) Menteri\/Panglima Angkatan Laut (Men\/Pangal) Nomor 5401.24 tanggal 26 Juni 1962. Latar belakang pembentukannya adalah kebutuhan akan tenaga wanita dalam kedinasan Angkatan Laut untuk tugas-tugas tertentu yang lebih cocok diemban oleh wanita, sejalan dengan kodrat dan sifat kewanitaan, tanpa mengabaikan aspek militer. Ide ini diprakarsai oleh Komodor Yos Sudarso dan kemudian direalisasikan di bawah kepemimpinan Laksamana Muda TNI RE Martadinata. Angkatan pertama KOWAL dilantik pada tanggal 5 Januari 1963, dan tanggal inilah yang kemudian ditetapkan sebagai hari jadi KOWAL.\nHari jadi KOWAL menjadi pengingat akan sejarah panjang pengabdian para srikandi laut Indonesia. Peringatan ini tidak hanya bertujuan untuk mengenang jasa para pendahulu, tetapi juga untuk memotivasi generasi penerus KOWAL agar terus meningkatkan profesionalisme, kompetensi, dan semangat juang dalam menjalankan tugas-tugas kedinasan demi kejayaan TNI Angkatan Laut dan Negara Kesatuan Republik Indonesia."
+            }
+        ],
+        "01-10": [
+            {
+                "name": "Hari Gerakan Satu Juta Pohon  dan Hari Lingkungan Hidup Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 10 Januari, Hari Gerakan Satu Juta Pohon dan Hari Lingkungan Hidup Indonesia merupakan sebuah momentum yang saling terkait erat, didedikasikan untuk meningkatkan kesadaran serta aksi nyata masyarakat terhadap pelestarian lingkungan di Indonesia. Tanggal ini menjadi simbol penting bagi upaya kolektif dalam menjaga kelestarian alam, dengan penanaman pohon sebagai salah satu fokus utamanya.\nLatar belakang peringatan ini berakar dari keprihatinan atas kondisi lingkungan dan kebutuhan untuk menggalakkan partisipasi publik dalam rehabilitasi lahan serta pelestarian ekosistem. Secara historis, Presiden Soeharto pernah mencanangkan Pekan Gerakan Satu Juta Pohon pada 10 Januari 1993, yang kemudian menjadikan tanggal ini identik dengan aksi massal penanaman pohon di berbagai wilayah Indonesia. Gerakan ini menjadi perwujudan konkret dari semangat Hari Lingkungan Hidup Indonesia yang juga sering dikaitkan dengan tanggal tersebut. Meskipun Hari Lingkungan Hidup Sedunia diperingati secara global pada 5 Juni dan Indonesia memiliki Hari Menanam Pohon Indonesia (HMPI) pada 28 November, tanggal 10 Januari secara khusus menonjol karena inisiatif Gerakan Satu Juta Pohon yang menjadi salah satu cara masyarakat Indonesia mengekspresikan kepeduliannya terhadap lingkungan."
+            }
+        ],
+        "01-13": [
+            {
+                "name": "Hari HAM Nelayan dan Masyarakat Sipil",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 13 Januari, Hari HAM Nelayan dan Masyarakat Sipil merupakan momentum untuk meningkatkan kesadaran dan memperjuangkan hak-hak asasi para nelayan serta komunitas masyarakat sipil yang hidupnya bergantung pada sumber daya kelautan dan perikanan. Peringatan ini menyoroti berbagai tantangan dan pelanggaran HAM yang kerap dihadapi oleh kelompok ini.\nPenetapan tanggal 13 Januari sebagai Hari HAM Nelayan dan Masyarakat Sipil tidak terlepas dari sebuah peristiwa tragis yang dikenal sebagai \"Peristiwa Tiga Belas Januari\" atau pembunuhan tiga petani penggarap di Desa Celincam, Kecamatan Lobam, Kabupaten Bintan, Kepulauan Riau pada 13 Januari 2009. Peristiwa ini memicu solidaritas dan advokasi yang lebih luas dari berbagai organisasi masyarakat sipil untuk menuntut keadilan dan perlindungan HAM bagi kelompok rentan, termasuk nelayan dan petani yang seringkali berkonflik terkait akses terhadap sumber daya alam. Meskipun pemicu awalnya adalah kasus agraria di darat, solidaritas meluas mencakup isu-isu HAM yang dihadapi nelayan, seperti kriminalisasi, perampasan ruang hidup, akses terhadap sumber daya laut yang adil, dan perlindungan dari praktik perikanan ilegal yang merugikan."
+            }
+        ],
+        "02-09": [
+            {
+                "name": "Hari Persatuan Wartawan Indonesia (PWI) dan Hari Pers Nasional (HPN)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati serentak setiap tanggal 9 Februari, Hari Persatuan Wartawan Indonesia (PWI) sekaligus dirayakan sebagai Hari Pers Nasional (HPN). Penetapan ini menandai penghargaan tinggi terhadap peran sentral pers dalam pembangunan bangsa, demokrasi, serta sebagai wadah perjuangan para insan pers di Indonesia.\nPersatuan Wartawan Indonesia (PWI) lahir pada tanggal 9 Februari 1946 di Surakarta, Jawa Tengah. Pendirian PWI terjadi tidak lama setelah Indonesia merdeka, yang menunjukkan kesadaran para wartawan akan pentingnya organisasi profesi untuk memperjuangkan kemerdekaan pers, meningkatkan profesionalisme, serta turut andil dalam mengisi kemerdekaan. Tanggal berdirinya PWI ini kemudian menjadi tonggak bersejarah bagi komunitas pers nasional.\nSelaras dengan peran vital PWI dan insan pers secara keseluruhan, pemerintah Republik Indonesia melalui Keputusan Presiden (Keppres) Nomor 5 Tahun 1985 menetapkan tanggal 9 Februari sebagai Hari Pers Nasional (HPN). Keputusan ini secara resmi mengakui hari ulang tahun PWI sebagai HPN, dengan tujuan untuk menghargai kontribusi pers Indonesia dalam pembangunan nasional, sebagai kontrol sosial, edukator, dan penjaga nilai-nilai demokrasi. Dengan demikian, setiap tanggal 9 Februari menjadi momen refleksi bagi seluruh komunitas pers untuk terus berkomitmen pada kode etik jurnalistik, menyajikan informasi yang akurat dan bertanggung jawab, serta memperkuat perannya dalam mencerdaskan kehidupan bangsa."
+            }
+        ],
+        "02-13": [
+            {
+                "name": "Hari Persatuan Farmasi Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 13 Februari, Hari Persatuan Farmasi Indonesia merupakan hari berdirinya Persatuan Ahli Farmasi Indonesia (PAFI). Peringatan ini menjadi momentum penting bagi seluruh insan farmacis di Indonesia untuk merefleksikan peran dan kontribusi mereka dalam sistem kesehatan nasional serta untuk memperkuat solidaritas dan profesionalisme organisasi.\nPAFI secara resmi didirikan pada tanggal 13 Februari 1946 di Yogyakarta. Pembentukan organisasi ini terjadi di tengah suasana perjuangan kemerdekaan Indonesia, yang menunjukkan kesadaran para ahli farmasi akan pentingnya sebuah wadah persatuan untuk mengkonsolidasikan potensi dan keahlian mereka demi kepentingan bangsa dan negara, khususnya dalam bidang kefarmasian dan kesehatan. Pemilihan Yogyakarta sebagai tempat pendirian juga signifikan mengingat peran kota tersebut sebagai ibu kota perjuangan pada masa itu."
+            }
+        ],
+        "03-09": [
+            {
+                "name": "Hari Musik Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 9 Maret, Hari Musik Nasional merupakan sebuah momentum untuk menghargai dan merayakan peran serta kontribusi musik dan para musisi Indonesia dalam perjalanan sejarah bangsa, pembangunan karakter, serta pemajuan kebudayaan nasional. Penetapan hari ini juga bertujuan untuk meningkatkan apresiasi masyarakat terhadap karya-karya musik anak bangsa.\nHari Musik Nasional secara resmi ditetapkan melalui Keputusan Presiden (Keppres) Nomor 10 Tahun 2013 yang dikeluarkan oleh Presiden Susilo Bambang Yudhoyono pada tanggal 9 Maret 2013. Pemilihan tanggal 9 Maret sebagai Hari Musik Nasional didasarkan pada tanggal lahir Wage Rudolf Supratman, komponis besar Indonesia yang menciptakan lagu kebangsaan \"Indonesia Raya\". Meskipun terdapat perdebatan historis mengenai tanggal lahir W.R. Supratman yang sebenarnya (beberapa sumber menyebutkan 19 Maret 1903), tanggal 9 Maret telah diterima dan ditetapkan dalam Keppres tersebut sebagai hari untuk menghormati jasa beliau dan seluruh insan musik Indonesia."
+            }
+        ],
+        "03-11": [
+            {
+                "name": "Hari Surat Perintah 11 Maret (Supersemar)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 11 Maret, Hari Peringatan Surat Perintah 11 Maret, atau lebih dikenal sebagai Supersemar, merujuk pada sebuah dokumen bersejarah yang menandai titik balik penting dalam peta politik Indonesia. Peristiwa ini dikenang karena implikasinya yang sangat besar terhadap transisi kekuasaan dari Presiden Soekarno ke Jenderal Soeharto.\nSupersemar adalah surat perintah yang dikeluarkan pada tanggal 11 Maret 1966 oleh Presiden Soekarno kepada Letnan Jenderal Soeharto selaku Panglima Komando Operasi Keamanan dan Ketertiban (Pangkopkamtib). Latar belakang dikeluarkannya surat ini adalah situasi politik dan keamanan nasional yang sangat genting pasca peristiwa Gerakan 30 September 1965 (G30S). Terdapat demonstrasi mahasiswa yang masif, instabilitas ekonomi, dan tekanan politik yang kuat terhadap Presiden Soekarno. Isi pokok Supersemar, menurut versi yang umum beredar, adalah pemberian mandat kepada Letjen Soeharto untuk mengambil segala tindakan yang dianggap perlu guna mengatasi situasi keamanan yang buruk, menjamin keamanan pribadi dan kewibawaan Presiden Soekarno, serta melaksanakan ajaran-ajaran Pemimpin Besar Revolusi.\nNamun, hingga kini Supersemar masih menjadi subjek kontroversi dan perdebatan sejarah. Naskah asli Supersemar tidak pernah ditemukan secara pasti, dan terdapat berbagai versi mengenai isi dan interpretasi surat tersebut. Dampak langsung dari Supersemar adalah Letjen Soeharto mengambil langkah-langkah signifikan, termasuk pembubaran Partai Komunis Indonesia (PKI) dan penangkapan sejumlah menteri yang dianggap pro-Soekarno. Peristiwa ini secara de facto menjadi awal dari peralihan kekuasaan dan dimulainya era Orde Baru di bawah kepemimpinan Soeharto. Peringatan 11 Maret menjadi momen untuk merefleksikan salah satu episode paling krusial dan kompleks dalam sejarah modern Indonesia."
+            }
+        ],
+        "03-17": [
+            {
+                "name": "Hari Perawat Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 17 Maret, Hari Perawat Nasional merupakan momentum untuk menghargai dan mengakui peran vital serta kontribusi besar para perawat dalam sistem pelayanan kesehatan di Indonesia. Peringatan ini juga bertepatan dengan hari ulang tahun Persatuan Perawat Nasional Indonesia (PPNI).\nSejarah Hari Perawat Nasional tidak dapat dipisahkan dari sejarah terbentuknya PPNI pada tanggal 17 Maret 1974. PPNI lahir sebagai hasil fusi dari berbagai organisasi perawat yang sudah ada sebelumnya, dengan tujuan menyatukan seluruh perawat di Indonesia dalam satu wadah organisasi profesi. Pembentukan PPNI ini menjadi tonggak penting dalam upaya meningkatkan profesionalisme, kesejahteraan, dan pengakuan terhadap profesi perawat di tanah air. Oleh karena itu, tanggal pendirian PPNI dipilih sebagai Hari Perawat Nasional untuk menghormati perjuangan dan dedikasi seluruh perawat Indonesia."
+            }
+        ],
+        "03-24": [
+            {
+                "name": "Hari Peringatan Bandung Lautan Api",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 24 Maret, Hari Peringatan Bandung Lautan Api adalah momen untuk mengenang salah satu peristiwa heroik paling ikonik dalam sejarah perjuangan kemerdekaan Indonesia. Peristiwa ini melambangkan semangat perlawanan pantang menyerah dan pengorbanan rakyat Bandung demi mempertahankan kedaulatan bangsa.\nPeristiwa Bandung Lautan Api terjadi pada tanggal 23-24 Maret 1946. Latar belakangnya adalah ultimatum yang dikeluarkan oleh pasukan Sekutu (Inggris) yang menuntut agar Tentara Republik Indonesia (TRI) dan para pejuang Indonesia mengosongkan kota Bandung bagian selatan. Ultimatum ini bertujuan agar Sekutu dan NICA (Netherlands Indies Civil Administration) dapat menguasai Bandung sebagai basis strategis. Menghadapi situasi tersebut, para pejuang dan pemerintah setempat, setelah melalui musyawarah, memutuskan untuk tidak menyerahkan Bandung begitu saja. Sebagai gantinya, mereka mengambil langkah drastis dengan melakukan taktik \"bumi hangus\".\nPada malam tanggal 24 Maret 1946, sekitar 200.000 penduduk Bandung membakar rumah dan bangunan penting lainnya di kota bagian selatan sebelum akhirnya mengungsi ke daerah pegunungan. Keputusan ini diambil agar fasilitas kota tidak dapat dimanfaatkan oleh pihak musuh. Tokoh-tokoh seperti Kolonel A.H. Nasution (saat itu Komandan Divisi III Siliwangi) memainkan peran kunci dalam pengambilan keputusan dan pelaksanaan strategi ini. Peristiwa Bandung Lautan Api menjadi simbol perlawanan rakyat yang rela mengorbankan harta benda demi kemerdekaan dan kedaulatan, serta menunjukkan kepada dunia bahwa bangsa Indonesia tidak akan mudah ditaklukkan. Peringatan ini bertujuan untuk menanamkan nilai-nilai patriotisme, rela berkorban, dan semangat juang kepada generasi penerus bangsa."
+            }
+        ],
+        "03-30": [
+            {
+                "name": "Hari Film Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 30 Maret, Hari Film Nasional adalah momen penting yang didedikasikan untuk merayakan dan menghargai sejarah, pencapaian, serta peran film dalam kehidupan budaya dan sosial di Indonesia. Peringatan ini bertujuan untuk meningkatkan apresiasi masyarakat terhadap film Indonesia dan mendorong kemajuan industri perfilman nasional.\nPenetapan Hari Film Nasional pada tanggal 30 Maret merujuk pada peristiwa bersejarah dimulainya pengambilan gambar pertama film \"Darah dan Doa\" (atau \"The Long March\") pada tanggal 30 Maret 1950. Film ini disutradarai oleh Usmar Ismail dan diproduksi oleh Perusahaan Film Nasional Indonesia (Perfini). \"Darah dan Doa\" dianggap sebagai film pertama yang secara resmi diproduksi oleh perusahaan Indonesia dan disutradarai oleh orang Indonesia setelah masa kemerdekaan. Usmar Ismail sendiri kemudian dihormati sebagai Bapak Perfilman Indonesia. Keputusan untuk menetapkan tanggal ini sebagai Hari Film Nasional secara resmi dikukuhkan melalui Keputusan Presiden (Keppres) Republik Indonesia Nomor 25 Tahun 1999."
+            }
+        ],
+        "04-06": [
+            {
+                "name": "Hari Nelayan Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 6 April, Hari Nelayan Indonesia merupakan momentum untuk memberikan penghargaan dan apresiasi atas jasa serta peran para nelayan dalam upaya pemenuhan kebutuhan protein dan gizi bagi masyarakat Indonesia, serta kontribusi mereka terhadap perekonomian nasional. Peringatan ini juga bertujuan untuk meningkatkan kesadaran akan pentingnya kesejahteraan nelayan dan keberlanjutan sumber daya kelautan.\nSejarah penetapan Hari Nelayan Nasional pada 6 April tidak terlepas dari upaya untuk mengangkat harkat dan martabat kaum nelayan serta mengakui pentingnya sektor perikanan bagi Indonesia sebagai negara maritim. Peringatan ini sudah berlangsung cukup lama, meskipun dasar hukum formal berupa Keputusan Presiden baru ditetapkan belakangan untuk beberapa peringatan terkait kelautan. Secara tradisi, perayaan untuk nelayan sudah ada di berbagai daerah dengan bentuk dan waktu yang beragam, seringkali berupa ritual adat atau pesta laut sebagai ungkapan syukur atas hasil laut. Tanggal 6 April dipilih dan diperingati secara nasional untuk menyatukan semangat tersebut. Peringatan ini mulai digalakkan pada masa Orde Baru, sekitar tahun 1960-an, untuk memberikan perhatian lebih kepada komunitas nelayan."
+            }
+        ],
+        "04-09": [
+            {
+                "name": "Hari Ulang Tahun (HUT) TNI Angkatan Udara",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 9 April, Hari Ulang Tahun TNI Angkatan Udara (AU) menandai hari lahirnya kekuatan udara Indonesia sebagai salah satu matra Tentara Nasional Indonesia (TNI). Peringatan ini menjadi momen untuk menghargai sejarah panjang pengabdian, profesionalisme, dan dedikasi para prajurit udara dalam menjaga kedaulatan negara di angkasa.\nSejarah TNI Angkatan Udara berawal dari pembentukan Badan Keamanan Rakyat (BKR) Oedara pada tanggal 23 Agustus 1945, tidak lama setelah proklamasi kemerdekaan Indonesia. Seiring dengan perkembangan organisasi militer Indonesia, BKR Oedara kemudian bertransformasi menjadi Tentara Keamanan Rakyat (TKR) Djawatan Penerbangan pada 5 Oktober 1945, dan selanjutnya menjadi Tentara Republik Indonesia (TRI) Oedara pada 23 Januari 1946. Puncaknya, pada tanggal 9 April 1946, TRI Oedara ditingkatkan statusnya menjadi Angkatan Udara Republik Indonesia (AURI) melalui Penetapan Pemerintah Nomor 6\/SD Tahun 1946. Tanggal inilah yang kemudian ditetapkan sebagai hari jadi TNI Angkatan Udara. Nama AURI kemudian disesuaikan menjadi TNI Angkatan Udara seiring dengan penyatuan angkatan bersenjata.\nPeringatan HUT TNI AU setiap tahunnya menjadi kesempatan untuk melakukan refleksi atas pencapaian dan tantangan yang dihadapi, serta untuk memperteguh komitmen dalam menjalankan tugas menjaga kedaulatan wilayah udara nasional, menegakkan hukum di udara, dan melaksanakan operasi udara lainnya. Momen ini juga diisi dengan berbagai kegiatan seperti upacara militer, demonstrasi udara (flypast), bakti sosial, dan pameran alutsista, yang bertujuan untuk mempererat hubungan antara TNI AU dengan rakyat serta menumbuhkan kebanggaan nasional terhadap kekuatan dirgantara Indonesia."
+            }
+        ],
+        "04-16": [
+            {
+                "name": "Hari Komando Pasukan Khusus (Kopassus",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 16 April, Hari Komando Pasukan Khusus (Kopassus) menandai hari lahirnya satuan elite Tentara Nasional Indonesia Angkatan Darat (TNI AD) yang dikenal dengan kualifikasi khusus dalam berbagai jenis operasi. Peringatan ini menjadi momen untuk menghargai sejarah, dedikasi, dan profesionalisme prajurit Korps Baret Merah.\nSejarah pembentukan Kopassus berawal dari kebutuhan akan pasukan yang memiliki kemampuan khusus untuk menangani berbagai ancaman dan situasi genting. Cikal bakal Kopassus dimulai dengan dibentuknya Kesatuan Komando Tentara Territorium III\/Siliwangi (Kesko TT III\/Siliwangi) pada tanggal 16 April 1952 di Bandung. Pembentukan ini diprakarsai oleh Kolonel A.E. Kawilarang (Panglima TT III\/Siliwangi) dan didorong oleh pengalaman dalam menumpas pemberontakan Republik Maluku Selatan (RMS), di mana dirasakan perlunya pasukan dengan kemampuan serangan cepat dan infiltrasi. Komandan pertama Kesko TT adalah Mayor Moch. Idjon Djanbi, seorang mantan Kapten KNIL yang memiliki pengalaman tempur di Perang Dunia II dan perang kemerdekaan.\nSeiring waktu, satuan ini mengalami berbagai reorganisasi dan perubahan nama, mulai dari Resimen Para Komando Angkatan Darat (RPKAD) pada tahun 1953, Pusat Pasukan Khusus Angkatan Darat (Puspassus AD) pada tahun 1966, Komando Pasukan Sandi Yudha (Kopassandha) pada tahun 1971, hingga akhirnya menjadi Komando Pasukan Khusus (Kopassus) pada tahun 1985. Tanggal 16 April tetap dipertahankan sebagai hari jadi Kopassus, merujuk pada pembentukan Kesko TT sebagai embrio pasukan khusus TNI AD."
+            }
+        ],
+        "04-19": [
+            {
+                "name": "Hari Pertahanan Sipil (Hansip)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Pertahanan Sipil (Hansip) secara historis sering dikaitkan dengan tanggal 19 April, yang merujuk pada pembentukan organisasi Pertahanan Sipil di masa lalu. Peringatan ini menjadi momen untuk mengenang peran serta kontribusi anggota Hansip dalam menjaga keamanan, ketertiban, dan membantu penanggulangan bencana di tingkat masyarakat sebelum organisasi ini dibubarkan.\nCikal bakal Pertahanan Sipil di Indonesia dapat ditelusuri jauh ke era kolonial Belanda dengan nama Lucht Beschermings Dienst (LBD) untuk perlindungan dari serangan udara, yang kemudian di masa pendudukan Jepang berubah menjadi bagian dari Keibodan dan Seinendan yang bertugas membantu keamanan lokal. Setelah kemerdekaan, organisasi semacam ini terus berkembang. Secara formal, Pertahanan Sipil (Hansip) dibentuk pada tanggal 19 April 1962 melalui Keputusan Presiden Nomor 128 Tahun 1962 tentang Perencanaan, Pembinaan, dan Penggunaan Pertahanan Sipil. Tanggal inilah yang kemudian sering diperingati sebagai hari lahirnya Hansip, yang bertugas membantu pertahanan negara dari aspek sipil, termasuk perlindungan masyarakat (Linmas), keamanan lingkungan, dan penanggulangan bencana.\nSelama puluhan tahun, Hansip menjadi bagian tak terpisahkan dari sistem keamanan dan ketertiban di lingkungan masyarakat hingga ke tingkat desa\/kelurahan. Namun, seiring dengan dinamika dan evaluasi terhadap efektivitas serta perannya, Pemerintah Republik Indonesia secara resmi membubarkan Hansip pada tahun 2014 melalui Peraturan Presiden Nomor 88 Tahun 2014. Fungsi-fungsi yang sebelumnya diemban oleh Hansip, terutama yang berkaitan dengan perlindungan masyarakat, kini diintegrasikan dan dilaksanakan oleh Satuan Perlindungan Masyarakat (Satlinmas) yang pembinaannya berada di bawah Satuan Polisi Pamong Praja (Satpol PP). Meskipun Hansip tidak lagi ada, tanggal 19 April dapat dikenang sebagai bagian dari sejarah panjang upaya pelibatan masyarakat dalam pertahanan dan keamanan sipil di Indonesia."
+            }
+        ],
+        "01-15": [
+            {
+                "name": "Hari Dharma Samudera (Peringatan Pertempuran Laut Aru)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 15 Januari, Hari Dharma Samudera adalah momen sakral bagi bangsa Indonesia, khususnya bagi Tentara Nasional Indonesia Angkatan Laut (TNI AL), untuk mengenang dan menghormati heroisme serta pengorbanan para pahlawan yang gugur dalam Pertempuran Laut Aru. Peristiwa ini merupakan salah satu episode paling heroik dalam sejarah perjuangan Indonesia mempertahankan kedaulatan nasional.\nPertempuran Laut Aru terjadi pada tanggal 15 Januari 1962 di perairan Laut Arafura, Maluku, sebagai bagian dari Operasi Trikora (Tri Komando Rakyat) yang bertujuan untuk membebaskan Irian Barat (kini Papua) dari pendudukan Belanda. Dalam pertempuran yang tidak seimbang tersebut, tiga Kapal Republik Indonesia (KRI), yaitu KRI Macan Tutul, KRI Harimau, dan KRI Macan Kumbang, berhadapan dengan kapal perang Angkatan Laut Kerajaan Belanda yang lebih modern dan persenjataan yang lebih unggul, termasuk sebuah kapal perusak (destroyer) dan pesawat tempur Neptune. Komodor Yos Sudarso, yang saat itu menjabat sebagai Deputi Kepala Staf Angkatan Laut (KSAL), berada di atas KRI Macan Tutul.\nMenghadapi gempuran musuh, Komodor Yos Sudarso mengambil keputusan heroik dengan memerintahkan KRI Macan Tutul untuk melakukan manuver maju ke arah musuh guna mengalihkan perhatian dan memberikan kesempatan bagi dua KRI lainnya untuk menyelamatkan diri. KRI Macan Tutul akhirnya tenggelam bersama Komodor Yos Sudarso dan sebagian besar awaknya setelah terkena tembakan dari kapal perang Belanda. Seruan terakhir Komodor Yos Sudarso yang terkenal, \"Kobarkan semangat pertempuran!\", menjadi inspirasi abadi bagi generasi penerus bangsa. Hari Dharma Samudera diperingati untuk menanamkan nilai-nilai patriotisme, rela berkorban, pantang menyerah, serta untuk mengenang semangat juang para pahlawan samudera dalam mempertahankan setiap jengkal kedaulatan maritim Indonesia."
+            }
+        ],
+        "01-22": [
+            {
+                "name": "Hari Pejalan Kaki",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Peringatan untuk Pejalan Kaki (diinisiasi Oleh Koalisi Pejalan Kaki)\nTanggal 22 Januari menjadi hari yang sangat signifikan bagi para aktivis pejalan kaki di Indonesia, khususnya Koalisi Pejalan Kaki. Tanggal ini diperingati untuk mengenang tragedi kecelakaan lalu lintas di Tugu Tani, Jakarta Pusat, pada 22 Januari 2012, yang merenggut nyawa beberapa pejalan kaki dan melukai lainnya. Peristiwa tragis ini menjadi pemicu kuat bagi Koalisi Pejalan Kaki dan berbagai elemen masyarakat untuk lebih gencar menyuarakan pentingnya perlindungan, keselamatan, dan ketersediaan fasilitas yang layak bagi pejalan kaki di ruang publik.\nMeskipun bukan hari libur nasional atau peringatan resmi pemerintah, Koalisi Pejalan Kaki secara konsisten menggunakan tanggal 22 Januari setiap tahunnya sebagai momentum untuk melakukan berbagai aksi, kampanye, diskusi, dan advokasi. Tujuannya adalah untuk mengingatkan kembali publik dan pemerintah akan hak-hak pejalan kaki yang sering terabaikan, mendorong perbaikan infrastruktur trotoar, penegakan hukum terhadap pelanggaran di area pejalan kaki, serta membangun kesadaran bersama akan pentingnya ruang publik yang aman dan nyaman bagi semua, termasuk mereka yang berjalan kaki."
+            }
+        ],
+        "01-30": [
+            {
+                "name": "Hari Primata Indonesia",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 30 Januari, Hari Primata Indonesia merupakan sebuah inisiatif yang bertujuan untuk meningkatkan kesadaran dan kepedulian masyarakat luas terhadap pentingnya konservasi primata beserta habitatnya di Indonesia. Indonesia dikenal sebagai salah satu negara dengan keanekaragaman primata tertinggi di dunia, namun juga menghadapi ancaman kepunahan yang serius bagi banyak spesiesnya.\nHari Primata Indonesia pertama kali dideklarasikan pada tanggal 30 Januari 2001 oleh sejumlah organisasi non-pemerintah (LSM) yang bergerak di bidang lingkungan dan konservasi satwa liar. Beberapa sumber menyebutkan bahwa deklarasi ini terjadi di Pusat Primata Schmutzer, Ragunan, Jakarta. Pemilihan tanggal ini bertujuan untuk menciptakan momentum tahunan guna menyoroti berbagai ancaman yang dihadapi primata Indonesia, seperti hilangnya habitat akibat deforestasi, perburuan liar, dan perdagangan ilegal satwa. Inisiatif ini muncul dari keprihatinan mendalam atas kondisi populasi primata yang terus menurun.\nTujuan utama dari peringatan Hari Primata Indonesia adalah untuk mengedukasi publik mengenai kekayaan jenis primata yang dimiliki Indonesia, status konservasi mereka yang banyak terancam punah (seperti orangutan, siamang, bekantan, dan berbagai jenis monyet serta kukang), dan pentingnya peran primata dalam menjaga keseimbangan ekosistem. Peringatan ini juga menjadi ajang untuk mendorong partisipasi aktif masyarakat dalam upaya pelestarian, mendukung program-program konservasi, serta mendesak penegakan hukum yang lebih kuat terhadap kejahatan yang mengancam kelestarian primata dan habitatnya."
+            }
+        ],
+        "01-31": [
+            {
+                "name": "Hari Lahir Nahdlatul Ulama (Harlah NU)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Hari Lahir (Harlah) Nahdlatul Ulama (NU) diperingati setiap tanggal 16 Rajab menurut kalender Hijriyah, yang bertepatan dengan tanggal 31 Januari 1926 Miladiyah saat organisasi Islam terbesar di Indonesia ini resmi didirikan. Peringatan Harlah NU merupakan momen penting bagi kaum Nahdliyin (warga NU) untuk merefleksikan sejarah, perjuangan, dan kontribusi NU bagi agama, bangsa, dan negara.\nNahdlatul Ulama, yang berarti \"Kebangkitan Ulama\" atau \"Kebangkitan Cendekiawan Islam,\" didirikan di Surabaya, Jawa Timur. Pembentukannya diprakarsai oleh para ulama terkemuka dari pesantren-pesantren Ahlussunnah wal Jama'ah, dengan Hadratus Syaikh KH Hasyim Asy'ari sebagai Rais Akbar (pemimpin tertinggi) pertamanya. Latar belakang pendirian NU adalah sebagai respons terhadap berbagai tantangan yang dihadapi umat Islam saat itu, termasuk perkembangan gerakan modernisme Islam di Timur Tengah (seperti Wahhabisme) yang dianggap mengancam tradisi dan amaliah keagamaan yang telah mapan di Nusantara. NU bertujuan untuk melestarikan, mengembangkan, dan mengamalkan ajaran Islam Ahlussunnah wal Jama'ah dengan berpegang pada mazhab empat (Hanafi, Maliki, Syafi'i, dan Hambali) serta menjaga nilai-nilai persaudaraan (ukhuwah), moderasi (tawassuth), toleransi (tasamuh), dan keseimbangan (tawazun).\nPeringatan Harlah NU setiap tahunnya, baik yang mengikuti penanggalan Hijriyah maupun Miladiyah, diisi dengan berbagai kegiatan, mulai dari istighotsah kubro (doa bersama), pengajian akbar, seminar, bakti sosial, hingga perayaan budaya yang mencerminkan kekhasan NU. Momen Harlah menjadi sarana untuk memperkuat komitmen kebangsaan dan keagamaan NU, meneguhkan perannya sebagai penjaga tradisi Islam moderat, serta kontribusinya dalam pembangunan sumber daya manusia dan peradaban Indonesia."
+            }
+        ],
+        "02-05": [
+            {
+                "name": "Hari Ulang Tahun Himpunan Mahasiswa Islam (HMI)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 5 Februari, Hari Ulang Tahun Himpunan Mahasiswa Islam (HMI) menandai hari lahirnya salah satu organisasi mahasiswa Islam tertua dan terbesar di Indonesia. Peringatan ini menjadi momen penting bagi kader dan alumni HMI untuk merefleksikan sejarah, perjuangan, serta kontribusi organisasi dalam dinamika kemahasiswaan, keislaman, dan kebangsaan.\nHMI didirikan pada tanggal 5 Februari 1947 Masehi, bertepatan dengan 14 Rabiul Awal 1366 Hijriyah, di Yogyakarta. Pendirian HMI diprakarsai oleh Lafran Pane, seorang mahasiswa Sekolah Tinggi Islam (STI) Yogyakarta (yang kemudian menjadi Universitas Islam Indonesia - UII), bersama dengan beberapa rekannya. Latar belakang pendirian HMI adalah untuk menjawab kebutuhan mahasiswa Muslim akan sebuah wadah organisasi yang dapat memperteguh keimanan Islam, meningkatkan kualitas intelektual, serta berperan aktif dalam perjuangan mempertahankan kemerdekaan dan membangun bangsa Indonesia. HMI lahir dengan dua tujuan utama: mempertahankan Negara Republik Indonesia dan mempertinggi derajat Rakyat Indonesia, serta menegakkan dan mengembangkan ajaran agama Islam.\nSejak awal berdirinya, HMI telah memainkan peran signifikan dalam berbagai peristiwa penting sejarah Indonesia, mulai dari perjuangan fisik mempertahankan kemerdekaan, dinamika politik Orde Lama dan Orde Baru, hingga era Reformasi. Peringatan HUT HMI setiap tahunnya diisi dengan berbagai kegiatan seperti diskusi, seminar, bakti sosial, dan konsolidasi organisasi. Momen ini menjadi sarana untuk memperkuat komitmen kader terhadap nilai-nilai dasar perjuangan HMI, yaitu keislaman dan keindonesiaan, serta untuk terus mencetak insan akademis, pencipta, pengabdi yang bernafaskan Islam dan bertanggung jawab atas terwujudnya masyarakat adil makmur yang diridhoi Allah SWT."
+            }
+        ],
+        "02-14": [
+            {
+                "name": "Hari Peringatan Pemberontakan Pembela Tanah Air (PETA)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 14 Februari, Hari Peringatan Pemberontakan Pembela Tanah Air (PETA) adalah momen untuk mengenang keberanian dan semangat patriotisme para prajurit PETA yang melakukan perlawanan terhadap pendudukan Jepang di Indonesia. Peristiwa yang paling menonjol dan menjadi fokus utama peringatan ini adalah pemberontakan PETA di Blitar, Jawa Timur.\nPemberontakan PETA di Blitar meletus pada tanggal 14 Februari 1945. Pasukan PETA dibentuk oleh pemerintah pendudukan Jepang dengan tujuan awal untuk membantu Jepang dalam menghadapi Sekutu. Namun, penderitaan rakyat Indonesia akibat kekejaman dan eksploitasi Jepang, serta semangat untuk meraih kemerdekaan, mendorong sebagian prajurit PETA untuk berbalik melawan. Pemberontakan di Blitar dipimpin oleh Shodancho (Komandan Pleton) Supriyadi, seorang tokoh muda yang karismatik. Para prajurit PETA di Blitar merasa tidak tahan lagi melihat kesewenang-wenangan Jepang terhadap romusha (pekerja paksa) dan perlakuan diskriminatif lainnya.\nMeskipun direncanakan dengan matang, pemberontakan ini berhasil dipadamkan oleh kekuatan militer Jepang yang lebih besar dan terorganisir. Banyak prajurit PETA yang terlibat ditangkap, diadili, dan dijatuhi hukuman mati atau penjara. Nasib Supriyadi sendiri hingga kini masih menjadi misteri dan ia tidak pernah ditemukan. Meskipun gagal secara militer, pemberontakan PETA di Blitar memiliki makna yang sangat penting. Peristiwa ini menunjukkan adanya semangat perlawanan bersenjata dari unsur militer bentukan Jepang itu sendiri dan menginspirasi gerakan-gerakan kemerdekaan lainnya. Peringatan 14 Februari bertujuan untuk menghargai pengorbanan para pahlawan PETA, menanamkan nilai-nilai keberanian, cinta tanah air, dan semangat pantang menyerah dalam membela kedaulatan bangsa."
+            },
+            {
+                "name": "Hari Valentine",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Valentine, atau sering disebut Hari Kasih Sayang, dirayakan setiap tanggal 14 Februari di banyak negara di seluruh dunia. Hari ini secara tradisional dikaitkan dengan ekspresi cinta dan kasih sayang, seringkali melalui pemberian hadiah seperti bunga, cokelat, atau kartu ucapan.\nSejarah Peringatan\nAsal-usul Hari Valentine masih menjadi perdebatan dan melibatkan beberapa legenda yang berbeda, terutama seputar beberapa martir Kristen awal bernama Valentine.\nSalah satu legenda paling populer adalah kisah Santo Valentine dari Roma. Konon, pada abad ke-3 Masehi, Kaisar Claudius II di Roma melarang pernikahan bagi para prajurit muda, dengan keyakinan bahwa pria lajang akan menjadi prajurit yang lebih baik. Santo Valentine, seorang imam, secara rahasia melakukan pernikahan bagi pasangan muda yang ingin menikah, menentang perintah kaisar. Ketika tindakannya terbongkar, ia dipenjarakan dan dijatuhi hukuman mati. Sebelum eksekusinya pada 14 Februari, ia diduga mengirim pesan perpisahan kepada putri sipir penjara yang buta, yang ia sembuhkan, dengan tanda tangan \"Dari Valentine-mu.\" Kisah ini menjadi salah satu dasar romantis dari perayaan ini.\nLegenda lain melibatkan Santo Valentine dari Terni, seorang uskup yang juga dihukum mati oleh Kaisar Claudius II pada tanggal yang sama. Ada juga dugaan bahwa perayaan ini memiliki akar dari festival pagan Romawi kuno bernama Lupercalia, yang dirayakan pada pertengahan Februari. Festival ini melibatkan ritual kesuburan dan pembersihan. Ketika Kekristenan menyebar, gereja berusaha \"meng-Kristen-kan\" festival pagan, dan Hari Valentine mungkin menjadi salah satu upaya tersebut.\nSecara resmi, Paus Gelasius I menetapkan tanggal 14 Februari sebagai Hari Santo Valentine pada akhir abad ke-5, namun perayaan ini baru mulai diasosiasikan dengan romansa pada Abad Pertengahan, terutama melalui karya-karya penyair seperti Geoffrey Chaucer. Seiring waktu, perayaan ini berkembang menjadi pertukaran pesan cinta dan hadiah yang kita kenal sekarang.\nMeskipun asal-usulnya agak samar, Hari Valentine telah menjadi simbol universal untuk merayakan cinta, persahabatan, dan kasih sayang dalam berbagai bentuk."
+            }
+        ],
+        "02-19": [
+            {
+                "name": "Hari Komando Pertahanan Udara Nasional (Kohadnudnas)",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 19 Februari, Hari Komando Pertahanan Udara Nasional (Kohanudnas) adalah momen untuk mengenang sejarah dan pengabdian satuan komando utama TNI yang bertanggung jawab atas pertahanan udara nasional. Meskipun peringatan populer jatuh pada tanggal ini, penting untuk dicatat bahwa secara historis, Kohanudnas resmi dibentuk pada tanggal 9 Februari 1962. Tanggal 19 Februari lebih sering digunakan dalam pemberitaan dan perayaan populer dalam beberapa tahun terakhir.\nPembentukan Kohanudnas pada tahun 1962 merupakan langkah strategis yang sangat penting bagi Indonesia. Latar belakangnya adalah kebutuhan untuk menyatukan seluruh kekuatan dan unsur pertahanan udara—yang berasal dari ketiga matra TNI (AD, AL, dan AU) serta pertahanan sipil—di bawah satu komando terpadu. Keputusan ini diambil di tengah memanasnya situasi politik selama kampanye Trikora untuk pembebasan Irian Barat (kini Papua), guna menjamin kedaulatan wilayah udara yurisdiksi nasional dari segala bentuk ancaman.\nSeiring dengan program reorganisasi di tubuh TNI, Kohanudnas secara resmi dilikuidasi pada tahun 2022. Fungsi dan tanggung jawabnya kini telah diintegrasikan ke dalam Komando Operasi Udara Nasional (Koopsudnas). Walaupun organisasinya telah bertransformasi, peringatan ini tetap menjadi momen penting untuk menghargai warisan, pengalaman, dan dedikasi para prajurit yang pernah mengabdi di Kohanudnas, yang telah meletakkan dasar bagi sistem pertahanan udara Indonesia modern."
+            }
+        ],
+        "06-13": [
+            {
+                "name": "Hari Kesadaran Albinisme",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Kesadaran Albinisme Internasional – 13 Juni\nHari Kesadaran Albinisme Internasional diperingati setiap tanggal 13 Juni. Peringatan ini didedikasikan untuk meningkatkan kesadaran global tentang albinisme dan hak-hak asasi manusia bagi individu dengan kondisi ini.\nAlbinisme adalah kelainan genetik yang diturunkan, ditandai dengan kurangnya produksi pigmen melanin, yang memberikan warna pada kulit, rambut, dan mata. Kondisi ini dapat menyebabkan penglihatan yang buruk dan kerentanan terhadap kanker kulit.\nSejarah Peringatan\nIde untuk Hari Kesadaran Albinisme Internasional muncul dari kebutuhan mendesak untuk mengatasi diskriminasi dan kekerasan yang dihadapi oleh orang-orang dengan albinisme di berbagai belahan dunia, terutama di beberapa negara Afrika. Di sana, individu dengan albinisme sering menjadi korban serangan dan pembunuhan yang kejam, karena kepercayaan takhayul bahwa bagian tubuh mereka membawa keberuntungan atau kekuatan magis.\nPada tahun 2013, Dewan Hak Asasi Manusia Perserikatan Bangsa-Bangsa (PBB) mengesahkan resolusi yang menyerukan pencegahan serangan dan diskriminasi terhadap orang-orang dengan albinisme. Setelah itu, pada tanggal 18 Desember 2014, Majelis Umum PBB secara resmi menetapkan tanggal 13 Juni sebagai Hari Kesadaran Albinisme Internasional melalui Resolusi A\/RES\/69\/170.\nTanggal 13 Juni dipilih karena pada tanggal inilah resolusi pertama tentang albinisme diadopsi oleh Dewan Hak Asasi Manusia PBB pada tahun 2013, menandai langkah penting dalam upaya global untuk melindungi hak-hak individu dengan albinisme.\nPeringatan ini bertujuan untuk mengedukasi masyarakat, memerangi stereotip dan takhayul yang berbahaya, serta mempromosikan inklusi dan perlindungan hak-hak asasi manusia bagi semua orang dengan albinisme. Ini adalah seruan untuk mengakui martabat dan hak-hak mereka untuk hidup tanpa rasa takut akan kekerasan dan diskriminasi."
+            }
+        ],
+        "10-31": [
+            {
+                "name": "Hari Halloween",
+                "type": "Internasional",
+                "is_free": false,
+                "history": "Hari Halloween – 31 Oktober\nHari Halloween dirayakan setiap tanggal 31 Oktober di banyak negara, terutama di Barat. Hari ini dikenal dengan tradisi seperti mengenakan kostum, mengukir labu menjadi lentera (jack-o'-lantern), permen trik-or-treat, serta menceritakan kisah hantu dan menonton film horor.\nSejarah Peringatan\nAsal-usul Halloween berakar pada festival kuno Samhain yang dirayakan oleh bangsa Celtic kuno di wilayah yang sekarang menjadi Irlandia, Inggris Raya, dan Prancis utara. Samhain (diucapkan \"sow-in\") menandai akhir musim panas dan panen serta awal musim dingin yang gelap dan dingin, sebuah periode yang sering dikaitkan dengan kematian.\nBangsa Celtic percaya bahwa pada malam Samhain, yaitu tanggal 31 Oktober, batas antara dunia orang hidup dan orang mati menjadi kabur. Roh-roh orang yang sudah meninggal dipercaya kembali ke bumi. Untuk mengusir roh-roh jahat atau menenangkan roh-roh baik, orang-orang Celtic akan menyalakan api unggun besar, mengenakan kostum yang terbuat dari kulit hewan dan kepala binatang, serta meninggalkan makanan di luar rumah mereka.\nKetika Kekaisaran Romawi menaklukkan sebagian besar wilayah Celtic, dua festival Romawi digabungkan dengan Samhain:\nFeralia, hari peringatan orang mati.\nHari untuk menghormati Pomona, dewi buah dan pohon.\nPada abad ke-7 Masehi, Paus Bonifasius IV menetapkan All Saints' Day (Hari Raya Semua Orang Kudus) pada tanggal 1 November untuk menghormati para martir dan orang-orang kudus. Kemudian, pada abad ke-9, Paus Gregorius III memindahkan All Saints' Day ke 1 November. Malam sebelumnya, 31 Oktober, dikenal sebagai All Hallows' Eve (Malam Semua Orang Kudus), yang kemudian disingkat menjadi Halloween.\nSeiring waktu, tradisi-tradisi kuno Samhain seperti mengenakan kostum dan berkumpul untuk pesta malam hari berpadu dengan perayaan Kristen. Ketika imigran Irlandia dan Skotlandia berbondik-bondik ke Amerika Serikat pada abad ke-19, mereka membawa serta tradisi Halloween mereka. Di Amerika, perayaan ini berevolusi dan menjadi lebih komersial, dengan munculnya tradisi trik-or-treat dan penggunaan labu yang lebih meluas.\nSaat ini, Halloween telah menjadi perayaan yang berfokus pada kesenangan, fantasi, dan sedikit sentuhan horor yang menyenangkan, meskipun akar sejarahnya yang dalam tetap relevan."
+            }
+        ],
+        "03-01": [
+            {
+                "name": "Hari Penegakan Kedaulatan Negara",
+                "type": "Nasional",
+                "is_free": false,
+                "history": "Diperingati setiap tanggal 1 Maret, Hari Penegakan Kedaulatan Negara adalah salah satu hari peringatan nasional yang relatif baru, ditetapkan secara resmi melalui Keputusan Presiden (Keppres) Nomor 2 Tahun 2022. Peringatan ini bertujuan untuk mengenang dan menanamkan nilai-nilai dari peristiwa bersejarah Serangan Umum 1 Maret 1949 yang menjadi tonggak penting dalam mempertahankan kemerdekaan Indonesia.\nLatar belakang peringatan ini adalah peristiwa Serangan Umum 1 Maret 1949 di Yogyakarta. Saat itu, Belanda melancarkan Agresi Militer II dan berhasil menduduki Yogyakarta yang berstatus sebagai Ibu Kota Indonesia. Belanda kemudian menyebarkan propaganda ke dunia internasional bahwa Republik Indonesia dan tentaranya (TNI) telah hancur. Untuk mematahkan propaganda tersebut dan menunjukkan eksistensi Indonesia di mata dunia, para pejuang merencanakan sebuah serangan besar-besaran yang terkoordinasi.\nSerangan Umum 1 Maret 1949 diprakarsai oleh Sri Sultan Hamengkubuwono IX dan mendapat persetujuan dari Panglima Besar Jenderal Soedirman. Di bawah komando Letnan Kolonel Soeharto, pasukan TNI berhasil melancarkan serangan fajar dan menduduki Yogyakarta selama enam jam. Meskipun singkat, keberhasilan ini membawa dampak diplomatik yang luar biasa. Berita kemenangan ini menyebar ke seluruh dunia dan membuktikan kepada Perserikatan Bangsa-Bangsa (PBB) bahwa klaim Belanda salah; Republik Indonesia masih ada dan memiliki kekuatan untuk melawan. Peristiwa ini memperkuat posisi tawar Indonesia di panggung internasional dan menjadi salah satu faktor kunci yang memaksa Belanda untuk kembali ke meja perundingan.\nPenetapan 1 Maret sebagai Hari Penegakan Kedaulatan Negara oleh pemerintah pada tahun 2022 dimaksudkan untuk menanamkan kesadaran akan arti penting perjuangan dalam menegakkan kedaulatan negara. Peringatan ini menjadi momen bagi seluruh bangsa Indonesia untuk merefleksikan semangat persatuan, patriotisme, dan pengorbanan para pahlawan dalam mempertahankan setiap jengkal kedaulatan bangsa."
+            }
+        ]
+    },
+    "specific_date_events": {
+        "2025-03-28": [
+            {
+                "name": "Hari Suci Nyepi",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-03-31": [
+            {
+                "name": "Hari Raya Idul Fitri 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-04-01": [
+            {
+                "name": "Hari Raya Idul Fitri 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-06-06": [
+            {
+                "name": "Hari Raya Idul Adha 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-01-27": [
+            {
+                "name": "Hari Isra Mikraj Nabi Muhammad saw.",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-01-29": [
+            {
+                "name": "Tahun Baru Imlek 2576 Kongzili",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-01-28": [
+            {
+                "name": "Tahun Baru Imlek 2576 Kongzili",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-03-29": [
+            {
+                "name": "Hari Suci Nyepi (Tahun Baru Saka 1947)",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-04-02": [
+            {
+                "name": "Hari Raya Idul Fitri 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-04-04": [
+            {
+                "name": "Hari Raya Idul Fitri 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-04-07": [
+            {
+                "name": "Hari Raya Idul Fitri 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-04-18": [
+            {
+                "name": "Hari Wafat Yesus Kristus.",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-04-20": [
+            {
+                "name": "Hari Kebangkitan Yesus Kristus (Paskah)",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-05-12": [
+            {
+                "name": "Hari Raya Waisak 2569 BE",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-05-13": [
+            {
+                "name": "Hari Raya Waisak 2569 BE",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-05-29": [
+            {
+                "name": "Hari Kenaikan Yesus Kristus",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-05-30": [
+            {
+                "name": "Kenaikan Yesus Kristus",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-06-09": [
+            {
+                "name": "Hari Raya Idul Adha 1446 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-06-27": [
+            {
+                "name": "Tahun Baru Islam 1 Muharram 1447 H",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ],
+        "2025-09-05": [
+            {
+                "name": "Maulid Nabi Muhammad saw.",
+                "type": "Keagamaan",
+                "is_free": true,
+                "history": ""
+            }
+        ]
+    }
+}
