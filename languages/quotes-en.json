@@ -1,0 +1,357 @@
+[
+    {
+        "id": 1,
+        "quotes": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 2,
+        "quotes": "Strive not to be a success, but rather to be of value.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 3,
+        "quotes": "The mind is everything. What you think you become.",
+        "author": "Buddha"
+    },
+    {
+        "id": 4,
+        "quotes": "Your time is limited, so don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 5,
+        "quotes": "An unexamined life is not worth living.",
+        "author": "Socrates"
+    },
+    {
+        "id": 6,
+        "quotes": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id": 7,
+        "quotes": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+    },
+    {
+        "id": 8,
+        "quotes": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 9,
+        "quotes": "If you want to go fast, go alone. If you want to go far, go together.",
+        "author": "African Proverb"
+    },
+    {
+        "id": 10,
+        "quotes": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 11,
+        "quotes": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon"
+    },
+    {
+        "id": 12,
+        "quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 13,
+        "quotes": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "id": 14,
+        "quotes": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama XIV"
+    },
+    {
+        "id": 15,
+        "quotes": "The journey of a thousand miles begins with one step.",
+        "author": "Lao Tzu"
+    },
+    {
+        "id": 16,
+        "quotes": "Whether you think you can or you think you can’t, you’re right.",
+        "author": "Henry Ford"
+    },
+    {
+        "id": 17,
+        "quotes": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 18,
+        "quotes": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 19,
+        "quotes": "Don’t count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "id": 20,
+        "quotes": "You must be the change you wish to see in the world.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "id": 21,
+        "quotes": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "author": "Aristotle"
+    },
+    {
+        "id": 22,
+        "quotes": "Everything you’ve ever wanted is on the other side of fear.",
+        "author": "George Addair"
+    },
+    {
+        "id": 23,
+        "quotes": "Don't let yesterday take up too much of today.",
+        "author": "Will Rogers"
+    },
+    {
+        "id": 24,
+        "quotes": "There's no such thing as cheating once you climb the turret. There's only survival and death.",
+        "author": "Mira Sorrengail, The Fourth Wing"
+    },
+    {
+        "id": 25,
+        "quotes": "You're supposed to focus on the things that can kill you so you find ways to not die.",
+        "author": "Xaden Riorson, The Fourth Wing"
+    },
+    {
+        "id": 26,
+        "quotes": "Not all strength is physical",
+        "author": "Professor Kaori, The Fourth Wing"
+    },
+    {
+        "id": 27,
+        "quotes": "If we let fear kill whatever this is between us, then we don't deserve it.",
+        "author": "Violet Sorrengail, The Fourth Wing"
+    },
+    {
+        "id": 28,
+        "quotes": "Lies are comforting. Truth is painful.",
+        "author": "Xaden Riorson, The Fourth Wing"
+    },
+    {
+        "id": 29,
+        "quotes": "All we have to decide is what to do with the time that is given us.",
+        "author": "J.R.R. Tolkien, The Fellowship of the Ring"
+    },
+    {
+        "id": 30,
+        "quotes": "I am not pretty. I am not beautiful. I am as radiant as the sun.",
+        "author": "Suzanne Collins, The Hunger Games"
+    },
+    {
+        "id": 31,
+        "quotes": "Madness, as you know, is like gravity. All it takes is a little push.",
+        "author": "The Joker, The Dark Knight"
+    },
+    {
+        "id": 32,
+        "quotes": "It is not our abilities that show what we truly are. It is our choices.",
+        "author": "Dumbledore, Harry Potter and the Chamber of Secrets"
+    },
+    {
+        "id": 33,
+        "quotes": "Fear is the mind-killer.",
+        "author": "Paul Atreides, Dune 2021"
+    },
+    {
+        "id": 34,
+        "quotes": "Some days we glow, some days we just breathe. Both are enough.",
+        "author": "Raf"
+    },
+    {
+        "id": 35,
+        "quotes": "We carry stories we never tell, and they somehow, still shape us.",
+        "author": "Raf"
+    },
+    {
+        "id": 36,
+        "quotes": "Let it hurt, let it heal, let it go; on repeat if you must.",
+        "author": "Raf"
+    },
+    {
+        "id": 37,
+        "quotes": "We hide behind smiles, not because we're fine, but because no one listens to the quiet kind.",
+        "author": "Raf"
+    },
+    {
+        "id": 38,
+        "quotes": "You don’t need to burn to be bright. Because some lights glow quietly in the cold.",
+        "author": "Raf"
+    },
+    {
+        "id": 39,
+        "quotes": "Don’t fear the void. Fear what it whispers back.",
+        "author": "Raf"
+    },
+    {
+        "id": 40,
+        "quotes": "I erased my name so no one could summon me again.",
+        "author": "Raf"
+    },
+    {
+        "id": 41,
+        "quotes": "Even the moon envies the ones who never have to pretend to shine.",
+        "author": "Raf"
+    },
+    {
+        "id": 42,
+        "quotes": "The kindest goodbyes never say they’re leaving.",
+        "author": "Raf"
+    },
+    {
+        "id": 43,
+        "quotes": "No one tells the rose it’s bleeding when it loves the thorn.",
+        "author": "Raf"
+    },
+    {
+        "id": 44,
+        "quotes": "Crying over someone isn’t weakness. It’s proof that something real was buried there.",
+        "author": "Raf"
+    },
+    {
+        "id": 45,
+        "quotes": "They smiled like nothing was happening, while everything was falling apart inside someone else.",
+        "author": "Raf"
+    },
+    {
+        "id": 46,
+        "quotes": "It’s cruel how someone can be the reason for butterflies, and never even notice the wings.",
+        "author": "Raf"
+    },
+    {
+        "id": 47,
+        "quotes": "Even poison can taste sweet when given with a kiss.",
+        "author": "Butterfly"
+    },
+    {
+        "id": 48,
+        "quotes": "Even cloudy skies can grow flowers.",
+        "author": "Butterfly"
+    },
+    {
+        "id": 49,
+        "quotes": "Dreams grow strongest where passion, health, and laughter meet.",
+        "author": "Unknown"
+    },
+    {
+        "id": 50,
+        "quotes": "Being stronger isn’t about being loud; it’s about returning with grace.",
+        "author": "Mita"
+    },
+    {
+        "id": 51,
+        "quotes": "I’m not a backup plan, and definitely not a second choice.",
+        "author": "Raf"
+    },
+    {
+        "id": 52,
+        "quotes": "If you want to be respected by others, the great thing is to respect yourself.",
+        "author": "Fyodor Dostoyevsky"
+    },
+    {
+        "id": 53,
+        "quotes": "Never bend your head. Hold it high. Look the world straight in the eye.",
+        "author": "Helen Keller"
+    },
+    {
+        "id": 54,
+        "quotes": "Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy.",
+        "author": "Umiko"
+    },
+    {
+        "id": 55,
+        "quotes": "When you say yes to others, make sure you are not saying no to yourself.",
+        "author": "Butterfly"
+    },
+    {
+        "id": 56,
+        "quotes": "Self-respect leads to self-discipline. When you have both firmly under your belt, that’s real power.",
+        "author": "Clint Eastwood"
+    },
+    {
+        "id": 57,
+        "quotes": "The willingness to accept responsibility for one’s own life is the source from which self-respect springs.",
+        "author": "Joan Didion"
+    },
+    {
+        "id": 58,
+        "quotes": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "author": "Buddha"
+    },
+    {
+        "id": 59,
+        "quotes": "If we lose love and self-respect for each other, this is how we finally die.",
+        "author": "Maya Angelou"
+    },
+    {
+        "id": 60,
+        "quotes": "The more you know and respect yourself, the more impact you will have on people around you.",
+        "author": "Maxime Lagacé"
+    },
+    {
+        "id": 61,
+        "quotes": "Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life, but define yourself.",
+        "author": "Harvey Fierstein"
+    },
+    {
+        "id": 62,
+        "quotes": "The most powerful relationship you will ever have is the relationship with yourself.",
+        "author": "Steve Maraboli"
+    },
+    {
+        "id": 63,
+        "quotes": "All you need in this life is ignorance and confidence; then success is sure.",
+        "author": "Mark Twain"
+    },
+    {
+        "id": 64,
+        "quotes": "Confidence is the most important thing you can teach someone… If you can teach them confidence, then you don’t need to teach them anything else.",
+        "author": "Anonimous"
+    },
+    {
+        "id": 65,
+        "quotes": "What a man thinks of himself, that it is which determines, or rather indicates, his fate.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "id": 66,
+        "quotes": "Nothing builds self-esteem and self-confidence like accomplishment.",
+        "author": "Thomas Carlyle"
+    },
+    {
+        "id": 67,
+        "quotes": "Confidence is a habit that can be developed by acting as if you already had the confidence you desire to have.",
+        "author": "Brian Tracy"
+    },
+    {
+        "id": 68,
+        "quotes": "Confidence is a pencil best sharpened with paper.",
+        "author": "Kale Burton"
+    },
+    {
+        "id": 69,
+        "quotes": "I’m not okay, I’m just good at pretending I am.",
+        "author": "Raf"
+    },
+    {
+        "id": 70,
+        "quotes": "I miss me. The old me. The real me. The happy me. The laughing me. The smiling me. The gone me.",
+        "author": "Raf"
+    },
+    {
+        "id": 71,
+        "quotes": "Depression on my left, Loneliness on my right. They don’t need to show me their badges. I know these guys very well.",
+        "author": "Elizabeth Gilbert"
+    }
+]
