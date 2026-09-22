@@ -1,3 +1,116 @@
 {
-  "extensions": []
+  "extensions": [
+    {
+      "id": "project_system",
+      "name": "Project System",
+      "version": "1.0",
+      "description": "Manage complex projects, break them down into tasks, set deadlines, and track progress.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/project_system.hrk"
+    },
+    {
+      "id": "auto_read_reminders",
+      "name": "Auto Read Reminders",
+      "version": "1.0",
+      "description": "Automatically reads out reminders when navigating dates with arrows.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/auto_read_reminders.hrk"
+    },
+    {
+      "id": "date_calculator",
+      "name": "Date Calculator",
+      "version": "1.2",
+      "description": "Calculates the number of days between the currently selected date and today.",
+      "author": "Rafli     ",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/date_calculator.hrk"
+    },
+    {
+      "id": "developer_news",
+      "name": "Developer News",
+      "version": "1.0",
+      "description": "Stay updated with the latest news and announcements from the developer team.",
+      "author": "Novarealm",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/developer_news.hrk"
+    },
+    {
+      "id": "developer_toolkit",
+      "name": "Developer Toolkit",
+      "version": "1.0",
+      "description": "Heavy-duty developer tools: REPL Console, Event Sniffer, Live Log Viewer, Extension Inspector & Hot-Reloader, HRK Packer.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/developer_toolkit.hrk"
+    },
+    {
+      "id": "diary",
+      "name": "My Diary",
+      "version": "1.0",
+      "description": "Secure diary and notes extension with mood tracking.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/diary.hrk"
+    },
+    {
+      "id": "ghost_taskbar",
+      "name": "Ghost Taskbar Cleaner",
+      "version": "1.1",
+      "description": "Cleans up ghost icons left behind in the Windows System Tray.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/ghost_taskbar.hrk"
+    },
+    {
+      "id": "key_notifier",
+      "name": "Key Notifier",
+      "version": "1.0",
+      "description": "Plays sounds when CapsLock or NumLock state changes.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/key_notifier.hrk"
+    },
+    {
+      "id": "lumina",
+      "name": "Lumina",
+      "version": "1.0",
+      "description": "Birthday reminders for friends, family and yourself. Lumina lights up your calendar with the moments that matter most.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/lumina.hrk"
+    },
+    {
+      "id": "markdown_reader",
+      "name": "Markdown Reader",
+      "version": "1.0",
+      "description": "Open, read, and navigate Markdown (.md) files with full screen reader accessibility.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/markdown_reader.hrk"
+    },
+    {
+      "id": "quotes",
+      "name": "Quotes",
+      "version": "1.0",
+      "description": "Fetches and reads random quotes from Novarealm API.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/quotes.hrk"
+    },
+    {
+      "id": "smart_launcher",
+      "name": "Smart Launcher",
+      "version": "1.0",
+      "description": "Create customizable URL/command selectors with their own hotkeys. Replaces Mail Selector AHK.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/smart_launcher.hrk"
+    },
+    {
+      "id": "wikipedia_reader",
+      "name": "Wikipedia Reader",
+      "version": "1.0",
+      "description": "Search and read Wikipedia articles directly from Hariku",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/wikipedia_reader.hrk"
+    },
+    {
+      "id": "window_teleporter",
+      "name": "Window Teleporter",
+      "version": "1.0",
+      "description": "Teleport to virtual desktops and pin windows for instant Alt-Tab ninja navigation.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/window_teleporter.hrk"
+    }
+  ]
 }
