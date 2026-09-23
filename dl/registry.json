@@ -199,6 +199,14 @@
       "description": "Keeps a list of the text you copy, so you can find, pin and copy it again. Press V for the history and Shift+V to hear the last copied text. Copies from password managers are never recorded, and the history stays in memory unless you choose to remember it.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/clipboard_history.hrk"
+    },
+    {
+      "id": "sound_themes",
+      "name": "Sound Themes",
+      "version": "1.0",
+      "description": "Change the sounds Hariku plays, like a visual theme for your ears. Make themes from your own WAV files, switch between them in Preferences, Sound Themes, or with Shift+S, and import or export them as ZIP files. Hariku 1 sound themes can be imported too.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sound_themes.hrk"
     }
   ]
 }
