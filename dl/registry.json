@@ -167,6 +167,14 @@
       "description": "Track income and expenses offline: balance and summaries, history by month and category, monthly budgets with spoken warnings, recurring transactions, and an optional daily reminder. Understands amounts like 20.000, 20rb or 1,5jt.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/finance.hrk"
+    },
+    {
+      "id": "world_clock",
+      "name": "World Clock",
+      "version": "1.0",
+      "description": "Hear the current time in cities around the world. Press the World Clock hotkey to speak every zone, or open the window to browse them. Manage your cities in Preferences.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/world_clock.hrk"
     }
   ]
 }
