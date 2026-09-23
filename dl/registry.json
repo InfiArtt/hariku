@@ -111,6 +111,38 @@
       "description": "Teleport to virtual desktops and pin windows for instant Alt-Tab ninja navigation.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/window_teleporter.hrk"
+    },
+    {
+      "id": "routines",
+      "name": "Routines",
+      "version": "1.0",
+      "description": "iOS-Shortcuts-style automation: run a chain of actions automatically when conditions are met (time, battery, idle, focused app, clipboard, network) — or on demand with Run Now. Manage them from the Routines window.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/routines.hrk"
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "version": "1.0",
+      "description": "Search and filter your reminders and events across all dates. Find anything instantly with keyword search.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/filter.hrk"
+    },
+    {
+      "id": "gcal_integration",
+      "name": "Google Calendar Reader",
+      "version": "1.0",
+      "description": "Read your Google Calendar events inside Hariku. One-way sync: reads from Google, edits stay local.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/gcal_integration.hrk"
+    },
+    {
+      "id": "quick_expand",
+      "name": "Quick Expand",
+      "version": "1.0",
+      "description": "Auto-expand custom typed abbreviations (like 'my_email') into full text templates globally across Windows.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/quick_expand.hrk"
     }
   ]
 }
