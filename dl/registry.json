@@ -207,6 +207,38 @@
       "description": "Change the sounds Hariku plays, like a visual theme for your ears. Make themes from your own WAV files, switch between them in Preferences, Sound Themes, or with Shift+S, and import or export them as ZIP files. Hariku 1 sound themes can be imported too.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sound_themes.hrk"
+    },
+    {
+      "id": "earthquake",
+      "name": "Earthquakes & Tsunami",
+      "version": "1.0",
+      "description": "Hear BMKG's latest earthquake, browse recent earthquakes in Indonesia (and optionally strong ones worldwide from USGS), and get spoken alerts for earthquakes BMKG says have tsunami potential, and optionally for earthquakes near you or felt in your region. Hariku is not an official warning system: always follow BMKG and your local authorities. Earthquake data by BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) and USGS (no account or API key needed).",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/earthquake.hrk"
+    },
+    {
+      "id": "marine",
+      "name": "Sea Conditions",
+      "version": "1.0",
+      "description": "Hear the waves, swell, sea temperature and the tide (rising or falling, the next high and low tide) for a beach or port, and see the next days and tides. Choose the place in Preferences, Sea Conditions; it starts with your Weather city. Sea data by Open-Meteo.com (no account or API key needed).",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/marine.hrk"
+    },
+    {
+      "id": "air_quality",
+      "name": "Air Quality",
+      "version": "1.0",
+      "description": "Hear the air quality index, fine particles (PM2.5 and PM10) and the UV index for your city, with a short tip for the category, and see the next hours and days. Choose the city in Preferences, Air Quality; it starts with your Weather city. Air quality data by Open-Meteo.com (CAMS; no account or API key needed).",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/air_quality.hrk"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "version": "1.0",
+      "description": "Where is the ISS right now, upcoming rocket launches with a reminder, and today's sunrise, sunset and moon phase. Choose your city in Preferences, Space. ISS position: wheretheiss.at. Launch data: The Space Devs Launch Library 2. Sun and Moon are calculated offline.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/space.hrk"
     }
   ]
 }
