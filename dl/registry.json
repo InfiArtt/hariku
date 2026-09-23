@@ -143,6 +143,22 @@
       "description": "Auto-expand custom typed abbreviations (like 'my_email') into full text templates globally across Windows.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/quick_expand.hrk"
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "version": "1.0",
+      "description": "Hear the current weather and a 7-day forecast for your city. Choose the city in Preferences, Weather. Weather data by Open-Meteo.com (no account or API key needed).",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/weather.hrk"
+    },
+    {
+      "id": "briefing",
+      "name": "Morning Briefing",
+      "version": "1.0",
+      "description": "Hear a short spoken briefing: a greeting, today's date, today's reminders and news from other extensions such as the weather. Optionally plays the first time Hariku starts each day.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/briefing.hrk"
     }
   ]
 }
