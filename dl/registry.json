@@ -159,6 +159,14 @@
       "description": "Hear a short spoken briefing: a greeting, today's date, today's reminders and news from other extensions such as the weather. Optionally plays the first time Hariku starts each day.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/briefing.hrk"
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "version": "1.0",
+      "description": "Track income and expenses offline: balance and summaries, history by month and category, monthly budgets with spoken warnings, recurring transactions, and an optional daily reminder. Understands amounts like 20.000, 20rb or 1,5jt.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/finance.hrk"
     }
   ]
 }
