@@ -179,8 +179,8 @@
     {
       "id": "account_manager",
       "name": "Hariku Account Manager",
-      "version": "1.0.0",
-      "description": "Sign in with your InfiArtt account (infiartt.com). Provides identity for other extensions such as Hariku Lounge.",
+      "version": "1.0.1",
+      "description": "Sign in with your InfiArtt account (infiartt.com). Provides identity for extensions with online features.",
       "author": "Hariku Core Team",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/account_manager.hrk"
     }
