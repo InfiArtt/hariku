@@ -175,6 +175,14 @@
       "description": "Hear the current time in cities around the world. Press the World Clock hotkey to speak every zone, or open the window to browse them. Manage your cities in Preferences.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/world_clock.hrk"
+    },
+    {
+      "id": "account_manager",
+      "name": "Hariku Account Manager",
+      "version": "1.0.0",
+      "description": "Sign in with your InfiArtt account (infiartt.com). Provides identity for other extensions such as Hariku Lounge.",
+      "author": "Hariku Core Team",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/account_manager.hrk"
     }
   ]
 }
