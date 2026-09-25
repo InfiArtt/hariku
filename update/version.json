@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.9.0",
+  "latest_version": "2.10.0",
   "min_version_required": "2.0.0",
   "update_type": "optional",
   "force_update": false,
-  "download_url": "https://github.com/InfiArtt/hariku/releases/download/v2.9.0/HarikuV2-Setup.exe",
-  "sha256": "7bfbf1f118e95459ea917c9382c4b118fd1b50d8a2d932f65fc485b9d5880f29",
-  "release_notes": "Hariku 2.9.0"
+  "download_url": "https://github.com/InfiArtt/hariku/releases/download/v2.10.0/HarikuV2-Setup.exe",
+  "sha256": "22a0887715f924d20aa9e6d63e8febc677f23212f555f8fe9907e46bc98d641f",
+  "release_notes": "Hariku 2.10.0"
 }
