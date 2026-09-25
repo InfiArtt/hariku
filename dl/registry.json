@@ -147,10 +147,11 @@
     {
       "id": "weather",
       "name": "Weather",
-      "version": "1.1",
-      "description": "Hear the current weather and a 7-day forecast for your city. Choose the city in Preferences, Weather. Weather data by Open-Meteo.com (no account or API key needed).",
+      "version": "1.2",
+      "description": "Hear the current weather and a 7-day forecast. It uses your main place from Preferences, Places, or another place or a city you choose in Preferences, Weather. Weather data by Open-Meteo.com (no account or API key needed).",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/weather.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/weather.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "briefing",
@@ -187,10 +188,11 @@
     {
       "id": "flight_radar",
       "name": "Flight Radar",
-      "version": "1.6",
-      "description": "Hear the aircraft flying near your city: the nearest few on a hotkey, a list of everything in range, optional announcements when one passes overhead or reports an emergency, and a shortcut that opens LiveATC's page for the nearby airport in your browser. Set your city, street address or exact coordinates in Preferences, Flight Radar; your exact location stays on your computer. Aircraft data by adsb.fi and adsb.lol, flight routes by adsbdb.com, address search by OpenStreetMap Nominatim (no account or API key needed).",
+      "version": "1.7",
+      "description": "Hear the aircraft flying near your city: the nearest few on a hotkey, a list of everything in range, optional announcements when one passes overhead or reports an emergency, and a shortcut that opens LiveATC's page for the nearby airport in your browser. It uses your main place from Preferences, Places, or another place, city, street address or exact coordinates you choose in Preferences, Flight Radar; your exact location stays on your computer. Aircraft data by adsb.fi and adsb.lol, flight routes by adsbdb.com, address search by OpenStreetMap Nominatim (no account or API key needed).",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/flight_radar.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/flight_radar.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "clipboard_history",
@@ -211,42 +213,47 @@
     {
       "id": "earthquake",
       "name": "Earthquakes & Tsunami",
-      "version": "1.1",
+      "version": "1.2",
       "description": "Hear BMKG's latest earthquake, browse recent earthquakes in Indonesia (and optionally strong ones worldwide from USGS), and get spoken alerts for earthquakes BMKG says have tsunami potential, and optionally for earthquakes near you or felt in your region. Hariku is not an official warning system: always follow BMKG and your local authorities. Earthquake data by BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) and USGS (no account or API key needed).",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/earthquake.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/earthquake.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "marine",
       "name": "Sea Conditions",
-      "version": "1.1",
-      "description": "Hear the waves, swell, sea temperature and the tide (rising or falling, the next high and low tide) for a beach or port, and see the next days and tides. Choose the place in Preferences, Sea Conditions; it starts with your Weather city. Sea data by Open-Meteo.com (no account or API key needed).",
+      "version": "1.2",
+      "description": "Hear the waves, swell, sea temperature and the tide (rising or falling, the next high and low tide) for a beach or port, and see the next days and tides. It uses your main place from Preferences, Places, or another place or a beach or port you choose in Preferences, Sea Conditions. Sea data by Open-Meteo.com (no account or API key needed).",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/marine.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/marine.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "air_quality",
       "name": "Air Quality",
-      "version": "1.1",
-      "description": "Hear the air quality index, fine particles (PM2.5 and PM10) and the UV index for your city, with a short tip for the category, and see the next hours and days. Choose the city in Preferences, Air Quality; it starts with your Weather city. Air quality data by Open-Meteo.com (CAMS; no account or API key needed).",
+      "version": "1.2",
+      "description": "Hear the air quality index, fine particles (PM2.5 and PM10) and the UV index where you are, with a short tip for the category, and see the next hours and days. It uses your main place from Preferences, Places, or another place or a city you choose in Preferences, Air Quality. Air quality data by Open-Meteo.com (CAMS; no account or API key needed).",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/air_quality.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/air_quality.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "space",
       "name": "Space",
-      "version": "1.0",
-      "description": "Where is the ISS right now, upcoming rocket launches with a reminder, and today's sunrise, sunset and moon phase. Choose your city in Preferences, Space. ISS position: wheretheiss.at. Launch data: The Space Devs Launch Library 2. Sun and Moon are calculated offline.",
+      "version": "1.1",
+      "description": "Where is the ISS right now, upcoming rocket launches with a reminder, and today's sunrise, sunset and moon phase. It uses your main place from Preferences, Places, or another place or a city you choose in Preferences, Space; your location never leaves your computer. ISS position: wheretheiss.at. Launch data: The Space Devs Launch Library 2. Sun and Moon are calculated offline.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/space.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/space.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "cockpit",
       "name": "Cockpit",
-      "version": "1.0",
-      "description": "Pilot vibes: hear the aviation weather (METAR and TAF) of your favourite airports decoded into plain sentences with Q, open them all with Shift+Q, and turn on Captain mode to get the airport weather in your Morning Briefing and evening summary, be called Captain, get a cockpit greeting when Hariku starts and a Cockpit sound theme. Without favourites it uses the airport nearest to your Weather city. Aviation weather by the NOAA Aviation Weather Center (aviationweather.gov, no account or key needed). For information only, not for flight planning.",
+      "version": "1.1",
+      "description": "Pilot vibes: hear the aviation weather (METAR and TAF) of your favourite airports decoded into plain sentences with Q, open them all with Shift+Q, and turn on Captain mode to get the airport weather in your Morning Briefing and evening summary, be called Captain, get a cockpit greeting when Hariku starts and a Cockpit sound theme. Without favourites it uses the airport nearest to your main place from Preferences, Places, or another place you choose. Aviation weather by the NOAA Aviation Weather Center (aviationweather.gov, no account or key needed). For information only, not for flight planning.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/cockpit.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/cockpit.hrk",
+      "minimum_core_version": "2.8"
     },
     {
       "id": "edge_voices",
@@ -259,10 +266,11 @@
     {
       "id": "piper_voices",
       "name": "Piper Voices",
-      "version": "1.0",
+      "version": "1.1",
       "description": "Adds Piper neural voices to Hariku Voice. They speak on this computer, without the internet, and include an Indonesian voice. Download the voices you want in Preferences, Piper Voices; Hariku then also downloads the Piper program once, from GitHub. Each voice shows its size, quality and license before you download it.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/piper_voices.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/piper_voices.hrk",
+      "minimum_core_version": "2.7"
     },
     {
       "id": "sleep_tracker",
@@ -275,10 +283,11 @@
     {
       "id": "voice_control",
       "name": "Voice Control",
-      "version": "1.0",
-      "description": "Talk to Aruna, Hariku's command bar (Ctrl+Alt+Backspace): \"latest earthquake\", \"what time is it\", or \"remind me to take medicine tomorrow at 8\", in Indonesian or English. Speech is recognised on this computer by whisper.cpp and is never saved or sent anywhere. Download the program and a speech model in Preferences, Voice Control; each shows its size before you download it. A headset is recommended.",
+      "version": "1.1",
+      "description": "Talk to Aruna, Hariku's command bar (Ctrl+Alt+Backspace): \"latest earthquake\", \"what time is it\", or \"remind me to take medicine tomorrow at 8\", in Indonesian or English. Speech is recognised on this computer by whisper.cpp and is never saved or sent anywhere. Download the program and a speech model in Preferences, Voice Control; each shows its size before you download it. Optionally, say a wake phrase such as \"Hey Aruna\" to open Aruna listening without a key (off until you turn it on; it listens on this computer only). A headset is recommended.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/voice_control.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/voice_control.hrk",
+      "minimum_core_version": "2.7"
     }
   ]
 }
