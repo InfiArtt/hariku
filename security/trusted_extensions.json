@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T04:44:17Z",
-  "total": 63,
+  "generated_at": "2026-09-25T08:09:38Z",
+  "total": 64,
   "trusted": [
     "0135ddac972abb91c5ceff51565287f091fee759dc5a27447e795906dff098d8",
     "58e9ceca60d5d6af6e6a0c4acd29692e6b162e72262bce40d1c727ad2f24fa8d",
@@ -64,6 +64,7 @@
     "ebc96c1cbb9fbc03e98befa599640127f29dc900e1960138992511965b3b4fd6",
     "a82c72e9dd98b0cb69c2b7170e10597cb9b6fe18bbb7cbcdfbb7bbb2897d845a",
     "fb958ebd34d61108c543506fd310e57b208754a243725653fd3e02cfc5c0370e",
-    "c54302a4d53570baaf8d3b3b89c7bab1bc5b935259cbcebafa177ba731d2c2ff"
+    "c54302a4d53570baaf8d3b3b89c7bab1bc5b935259cbcebafa177ba731d2c2ff",
+    "9cc9e0abc5d67f9ccbcd2eced17a0fbf0dced25e90ae4ba138381b6da34abc75"
   ]
 }
