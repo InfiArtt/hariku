@@ -1,9 +1,10 @@
 {
-  "latest_version": "2.12.0",
+  "latest_version": "2.12.1",
   "min_version_required": "2.0.0",
   "update_type": "optional",
   "force_update": false,
-  "download_url": "https://github.com/InfiArtt/hariku/releases/download/v2.12.0/HarikuV2-Setup.exe",
-  "sha256": "4426faecffc45de24a85b2c985d08904fad08e1b6cd0ef986f53d8586f8d8e0b",
-  "release_notes": "Hariku 2.12.0"
+  "download_url": "https://github.com/InfiArtt/hariku/releases/download/v2.12.1/HarikuV2-Setup.exe",
+  "sha256": "ecdb46be11a66b34273b58ab5432c8250bd5fd1df6338dd60f677b3ea5758521",
+  "release_notes": "This small update fixes Hariku's English guides and What's New, which gave Indonesian examples in many places, and makes the update window tell you what an update brings.\n\n- The English What's New, User Guide and extension guides now give English examples, such as \"what time is it in Tokyo\" or \"set a timer for 10 minutes\", and the Indonesian ones give Indonesian examples. Every example was checked to really work with Aruna. The extensions' guides come as small updates in the Extension Store.\n\n- The update window's \"What's new\" box now shows what the new version brings, in your language, starting with why it was released; it used to show only the version number. The update window itself is in your language too.\n\n- During a World Trip, World Clock no longer answers the Indonesian question for the local time (\"what time is it there\") with \"I don't know the time zone\"; World Trip answers it again.",
+  "release_notes_id": "Pembaruan kecil ini merapikan panduan dan Apa yang Baru berbahasa Inggris, yang di banyak tempat masih memakai contoh bahasa Indonesia, dan membuat jendela pembaruan memberi tahu isi pembaruannya.\n\n- Apa yang Baru, Panduan Pengguna dan panduan ekstensi berbahasa Inggris sekarang memakai contoh bahasa Inggris, dan yang berbahasa Indonesia memakai contoh bahasa Indonesia, seperti \"jam berapa di Tokyo\" atau \"timer 10 menit\". Setiap contoh sudah dicek benar-benar jalan di Aruna. Panduan ekstensi yang diperbarui datang sebagai pembaruan kecil di Toko Ekstensi.\n\n- Kotak \"Yang baru\" di jendela pembaruan sekarang menampilkan isi versi baru dalam bahasamu, diawali alasan kenapa versi itu dirilis; dulu hanya nomor versinya. Jendela pembaruannya sendiri juga sudah berbahasa Indonesia.\n\n- Saat World Trip, World Clock tidak lagi menjawab \"jam berapa di sana\" dengan \"I don't know the time zone\"; pertanyaan itu kembali dijawab World Trip."
 }
