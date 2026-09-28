@@ -302,8 +302,8 @@
     {
       "id": "voice_control",
       "name": "Voice Control",
-      "version": "1.3",
-      "description": "Talk to Aruna, Hariku's command bar (Ctrl+Alt+Backspace): \"latest earthquake\", \"what time is it\", or \"remind me to take medicine tomorrow at 8\", in Indonesian or English. Speech is recognised on this computer by whisper.cpp and is never saved or sent anywhere. Download the program and a speech model in Preferences, Voice Control; each shows its size before you download it. Optionally, say a wake phrase such as \"Hey Aruna\" to open Aruna listening without a key (off until you turn it on; it listens on this computer only). A headset is recommended.",
+      "version": "1.4",
+      "description": "Talk to Aruna, Hariku's command bar (Ctrl+Alt+Backspace): \"latest earthquake\", \"what time is it\", or \"remind me to take medicine tomorrow at 8\", in Indonesian or English. By default, speech is recognised on this computer by whisper.cpp and is never saved or sent anywhere: download the program and a speech model in Preferences, Voice Control; each shows its size before you download it. On an older computer, choose Hariku cloud there instead (needs an InfiArtt account; nothing to download): only the recording made after Aruna's key or the wake phrase is sent to Hariku's AI service to be recognised, and it isn't stored. Optionally, say a wake phrase such as \"Hey Aruna\" to open Aruna listening without a key (off until you turn it on; it listens on this computer only). A headset is recommended.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/voice_control.hrk",
       "minimum_core_version": "2.7"
