@@ -348,7 +348,7 @@
     {
       "id": "calculator",
       "name": "Calculator & Converter",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Calculate, convert and more by typing or speaking to Aruna, in English or Indonesian: \"what's 25 times 4\", \"what's 15% of 80\", \"square root of 144\", \"convert 2 feet to inches\", \"convert 30 degrees celsius to fahrenheit\", \"100 dollars to rupiah\". Numbers in digits or words (\"twenty-five\", \"3.5 million\"), answers in your language's number format. Go on from the result (\"the result times two\") and copy it. Length, weight, volume, cooking, temperature, speed, area, time, data, pressure, energy and fuel economy, with Indonesian units such as the ons. Also flips a coin, rolls dice, picks a random number, splits a bill and works out discounts. Everything is worked out on your computer; only for currencies are the day's rates fetched from Frankfurter, all at once, so what you convert isn't sent. From Hariku 2.11 the first word can be left out: \"25 x 4\", \"2 feet in inches\".",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/calculator.hrk",
