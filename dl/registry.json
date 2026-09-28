@@ -185,8 +185,8 @@
     {
       "id": "world_clock",
       "name": "World Clock",
-      "version": "1.0.1",
-      "description": "Hear the current time in cities around the world. Press the World Clock hotkey to speak every zone, or open the window to browse them. Manage your cities in Preferences.",
+      "version": "1.1",
+      "description": "Hear the current time in cities around the world. Press the World Clock hotkey to speak every zone, open the window to browse them, or ask Aruna \"time in Tokyo\" or \"jam berapa di Mekah\". Manage your cities in Preferences.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/world_clock.hrk",
       "minimum_core_version": "2.5"
@@ -311,7 +311,7 @@
     {
       "id": "timer_alarm",
       "name": "Timer & Alarm",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Set alarms and timers by typing or speaking to Aruna, in Indonesian or English: \"alarm besok jam 5 pagi\", \"set alarm tomorrow at 6 for the gym\", \"wake me up at 6\", \"timer mie 3 menit\". Aruna reads each alarm back with its day, date and time of day before setting it. Alarms and timers ring with a Windows alarm sound and say what they are, even with Hariku in the tray; press any key to stop, or say \"snooze\". Manage them and choose the sounds in Preferences. Everything stays on your computer.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/timer_alarm.hrk",
