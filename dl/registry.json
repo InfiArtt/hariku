@@ -3,10 +3,11 @@
     {
       "id": "project_system",
       "name": "Project System",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Manage complex projects, break them down into tasks, set deadlines, and track progress.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/project_system.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/project_system.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "auto_read_reminders",
@@ -35,10 +36,11 @@
     {
       "id": "developer_toolkit",
       "name": "Developer Toolkit",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Heavy-duty developer tools: REPL Console, Event Sniffer, Live Log Viewer, Extension Inspector & Hot-Reloader, HRK Packer.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/developer_toolkit.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/developer_toolkit.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "diary",
@@ -51,34 +53,38 @@
     {
       "id": "ghost_taskbar",
       "name": "Ghost Taskbar Cleaner",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Cleans up ghost icons left behind in the Windows System Tray.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/ghost_taskbar.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/ghost_taskbar.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "key_notifier",
       "name": "Key Notifier",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Plays sounds when CapsLock or NumLock state changes.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/key_notifier.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/key_notifier.hrk",
+      "minimum_core_version": "1.0"
     },
     {
       "id": "lumina",
       "name": "Lumina",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Birthday reminders for friends, family and yourself. Lumina lights up your calendar with the moments that matter most.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/lumina.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/lumina.hrk",
+      "minimum_core_version": "2.1"
     },
     {
       "id": "markdown_reader",
       "name": "Markdown Reader",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Open, read, and navigate Markdown (.md) files with full screen reader accessibility.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/markdown_reader.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/markdown_reader.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "quotes",
@@ -107,47 +113,52 @@
     {
       "id": "window_teleporter",
       "name": "Window Teleporter",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Teleport to virtual desktops and pin windows for instant Alt-Tab ninja navigation.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/window_teleporter.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/window_teleporter.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "routines",
       "name": "Routines",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "iOS-Shortcuts-style automation: run a chain of actions automatically when conditions are met (time, battery, idle, focused app, clipboard, network) — or on demand with Run Now. Manage them from the Routines window.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/routines.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/routines.hrk",
+      "minimum_core_version": "2.7"
     },
     {
       "id": "filter",
       "name": "Filter",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Search and filter your reminders and events across all dates. Find anything instantly with keyword search.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/filter.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/filter.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "gcal_integration",
       "name": "Google Calendar Reader",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Read your Google Calendar events inside Hariku. One-way sync: reads from Google, edits stay local.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/gcal_integration.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/gcal_integration.hrk",
+      "minimum_core_version": "2.2"
     },
     {
       "id": "quick_expand",
       "name": "Quick Expand",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Auto-expand custom typed abbreviations (like 'my_email') into full text templates globally across Windows.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/quick_expand.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/quick_expand.hrk",
+      "minimum_core_version": "2.0"
     },
     {
       "id": "weather",
       "name": "Weather",
-      "version": "1.2",
+      "version": "1.2.1",
       "description": "Hear the current weather and a 7-day forecast. It uses your main place from Preferences, Places, or another place or a city you choose in Preferences, Weather. Weather data by Open-Meteo.com (no account or API key needed).",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/weather.hrk",
@@ -156,39 +167,43 @@
     {
       "id": "briefing",
       "name": "Morning Briefing",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Hear a short spoken briefing: a greeting, today's date, today's reminders and news from other extensions such as the weather. Optionally plays the first time Hariku starts each day.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/briefing.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/briefing.hrk",
+      "minimum_core_version": "2.7"
     },
     {
       "id": "finance",
       "name": "Finance",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Track income and expenses offline: balance and summaries, history by month and category, monthly budgets with spoken warnings, recurring transactions, and an optional daily reminder. Understands amounts like 20.000, 20rb or 1,5jt.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/finance.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/finance.hrk",
+      "minimum_core_version": "2.4"
     },
     {
       "id": "world_clock",
       "name": "World Clock",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Hear the current time in cities around the world. Press the World Clock hotkey to speak every zone, or open the window to browse them. Manage your cities in Preferences.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/world_clock.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/world_clock.hrk",
+      "minimum_core_version": "2.5"
     },
     {
       "id": "account_manager",
       "name": "Hariku Account Manager",
-      "version": "1.0.1",
-      "description": "Sign in with your InfiArtt account (infiartt.com). Provides identity for extensions with online features.",
+      "version": "1.1",
+      "description": "Sign in with your InfiArtt account (infiartt.com). Provides identity for extensions with online features, such as Ask Hariku. Stays signed in: the sign-in is renewed when it is about to run out.",
       "author": "Hariku Core Team",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/account_manager.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/account_manager.hrk",
+      "minimum_core_version": "2.0.0"
     },
     {
       "id": "flight_radar",
       "name": "Flight Radar",
-      "version": "1.7",
+      "version": "1.7.1",
       "description": "Hear the aircraft flying near your city: the nearest few on a hotkey, a list of everything in range, optional announcements when one passes overhead or reports an emergency, and a shortcut that opens LiveATC's page for the nearby airport in your browser. It uses your main place from Preferences, Places, or another place, city, street address or exact coordinates you choose in Preferences, Flight Radar; your exact location stays on your computer. Aircraft data by adsb.fi and adsb.lol, flight routes by adsbdb.com, address search by OpenStreetMap Nominatim (no account or API key needed).",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/flight_radar.hrk",
@@ -197,23 +212,25 @@
     {
       "id": "clipboard_history",
       "name": "Clipboard History",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Keeps a list of the text you copy, so you can find, pin and copy it again. Press V for the history and Shift+V to hear the last copied text. Copies from password managers are never recorded, and the history stays in memory unless you choose to remember it.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/clipboard_history.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/clipboard_history.hrk",
+      "minimum_core_version": "2.4"
     },
     {
       "id": "sound_themes",
       "name": "Sound Themes",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Change the sounds Hariku plays, like a visual theme for your ears. Make themes from your own WAV files, switch between them in Preferences, Sound Themes, or with Shift+S, and import or export them as ZIP files. Hariku 1 sound themes can be imported too. Hariku starts with your theme's start sound.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sound_themes.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sound_themes.hrk",
+      "minimum_core_version": "2.7"
     },
     {
       "id": "earthquake",
       "name": "Earthquakes & Tsunami",
-      "version": "1.2",
+      "version": "1.2.1",
       "description": "Hear BMKG's latest earthquake, browse recent earthquakes in Indonesia (and optionally strong ones worldwide from USGS), and get spoken alerts for earthquakes BMKG says have tsunami potential, and optionally for earthquakes near you or felt in your region. Hariku is not an official warning system: always follow BMKG and your local authorities. Earthquake data by BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) and USGS (no account or API key needed).",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/earthquake.hrk",
@@ -222,7 +239,7 @@
     {
       "id": "marine",
       "name": "Sea Conditions",
-      "version": "1.2",
+      "version": "1.2.1",
       "description": "Hear the waves, swell, sea temperature and the tide (rising or falling, the next high and low tide) for a beach or port, and see the next days and tides. It uses your main place from Preferences, Places, or another place or a beach or port you choose in Preferences, Sea Conditions. Sea data by Open-Meteo.com (no account or API key needed).",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/marine.hrk",
@@ -231,7 +248,7 @@
     {
       "id": "air_quality",
       "name": "Air Quality",
-      "version": "1.2",
+      "version": "1.2.1",
       "description": "Hear the air quality index, fine particles (PM2.5 and PM10) and the UV index where you are, with a short tip for the category, and see the next hours and days. It uses your main place from Preferences, Places, or another place or a city you choose in Preferences, Air Quality. Air quality data by Open-Meteo.com (CAMS; no account or API key needed).",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/air_quality.hrk",
@@ -240,7 +257,7 @@
     {
       "id": "space",
       "name": "Space",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Where is the ISS right now, upcoming rocket launches with a reminder, and today's sunrise, sunset and moon phase. It uses your main place from Preferences, Places, or another place or a city you choose in Preferences, Space; your location never leaves your computer. ISS position: wheretheiss.at. Launch data: The Space Devs Launch Library 2. Sun and Moon are calculated offline.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/space.hrk",
@@ -249,7 +266,7 @@
     {
       "id": "cockpit",
       "name": "Cockpit",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Pilot vibes: hear the aviation weather (METAR and TAF) of your favourite airports decoded into plain sentences with Q, open them all with Shift+Q, and turn on Captain mode to get the airport weather in your Morning Briefing and evening summary, be called Captain, get a cockpit greeting when Hariku starts and a Cockpit sound theme. Without favourites it uses the airport nearest to your main place from Preferences, Places, or another place you choose. Aviation weather by the NOAA Aviation Weather Center (aviationweather.gov, no account or key needed). For information only, not for flight planning.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/cockpit.hrk",
@@ -258,15 +275,16 @@
     {
       "id": "edge_voices",
       "name": "Edge Voices",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Adds the Microsoft Edge online neural voices, including the Indonesian voices Ardi and Gadis, to Hariku Voice. Choose them in Preferences, Hariku Voice. The text being read is sent to Microsoft's online speech service, which is meant for the Edge browser and may stop working at any time; Hariku then uses your fallback voice.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/edge_voices.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/edge_voices.hrk",
+      "minimum_core_version": "2.7"
     },
     {
       "id": "piper_voices",
       "name": "Piper Voices",
-      "version": "1.1",
+      "version": "1.1.1",
       "description": "Adds Piper neural voices to Hariku Voice. They speak on this computer, without the internet, and include an Indonesian voice. Download the voices you want in Preferences, Piper Voices; Hariku then also downloads the Piper program once, from GitHub. Each voice shows its size, quality and license before you download it.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/piper_voices.hrk",
@@ -275,15 +293,16 @@
     {
       "id": "sleep_tracker",
       "name": "Sleep Pattern",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Estimates when you slept from when you used the computer, like a phone's sleep tracker: hear last night's sleep, see your sleep history and averages, and find out when you stayed up late. Hariku records only whether the keyboard or mouse was used in each minute, never what you typed or which apps you used, and nothing leaves your computer. An estimate, not a medical measurement.",
       "author": "Rafli",
-      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sleep_tracker.hrk"
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sleep_tracker.hrk",
+      "minimum_core_version": "2.7"
     },
     {
       "id": "voice_control",
       "name": "Voice Control",
-      "version": "1.2",
+      "version": "1.3",
       "description": "Talk to Aruna, Hariku's command bar (Ctrl+Alt+Backspace): \"latest earthquake\", \"what time is it\", or \"remind me to take medicine tomorrow at 8\", in Indonesian or English. Speech is recognised on this computer by whisper.cpp and is never saved or sent anywhere. Download the program and a speech model in Preferences, Voice Control; each shows its size before you download it. Optionally, say a wake phrase such as \"Hey Aruna\" to open Aruna listening without a key (off until you turn it on; it listens on this computer only). A headset is recommended.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/voice_control.hrk",
@@ -292,7 +311,7 @@
     {
       "id": "timer_alarm",
       "name": "Timer & Alarm",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Set alarms and timers by typing or speaking to Aruna, in Indonesian or English: \"alarm besok jam 5 pagi\", \"set alarm tomorrow at 6 for the gym\", \"wake me up at 6\", \"timer mie 3 menit\". Aruna reads each alarm back with its day, date and time of day before setting it. Alarms and timers ring with a Windows alarm sound and say what they are, even with Hariku in the tray; press any key to stop, or say \"snooze\". Manage them and choose the sounds in Preferences. Everything stays on your computer.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/timer_alarm.hrk",
@@ -301,7 +320,7 @@
     {
       "id": "world_trip",
       "name": "World Trip",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Fly anywhere from Aruna: say \"take me to Tokyo\", \"bawa aku ke Paris\" or \"take me anywhere\". A cabin chime and the captain's announcement (the distance and flight time from your main place), the engines, then the local time and weather, a greeting in the local language spoken by a native voice, and live local radio playing quietly. Ask about the city (from Wikipedia), learn everyday phrases in 31 languages, change the station, or fly home. Radio stations from Radio Browser (radio-browser.info), weather and city search from Open-Meteo; only the destination is sent, never your own place. Native voices come from Hariku Voice: Edge Voices has one for nearly every language.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/world_trip.hrk",
@@ -319,7 +338,7 @@
     {
       "id": "dropbox",
       "name": "Dropbox",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Hear what Dropbox is doing and copy links without leaving your work. Hariku says when files you change are syncing and when they have synced (\"laporan.pdf is synced\", \"Your Dropbox is up to date\"), gently mentions a file that still hasn't synced after a few minutes, tells you when someone changes a file in a shared folder or shares something with you, and plays soft sounds. In File Explorer, on a file in your Dropbox folder, say \"salin link\" or \"copy link\" to Aruna (or give the command a key) and its shared link is copied; \"copy link to\" with a name finds the file first, and \"Dropbox status\" says whether everything has synced. Needs the Dropbox desktop app for the news about your own files. Sign in with Dropbox in your browser; Hariku asks Dropbox only about file names, sizes and times and for links, never reads or uploads file contents, and keeps the sign-in encrypted on this computer.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/dropbox.hrk",
@@ -329,11 +348,20 @@
     {
       "id": "calculator",
       "name": "Calculator & Converter",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "Calculate, convert and more by typing or speaking to Aruna, in Indonesian or English: \"berapa 25 kali 4\", \"what's 15% of 80\", \"berapa akar 144\", \"convert 2 feet to inches\", \"berapa inci 2 kaki\", \"konversi 30 derajat celsius ke fahrenheit\", \"100 dolar berapa\". Numbers in digits or words (\"dua puluh lima\", \"satu koma lima\", \"3.5 million\"), answers in your language's numbers (\"33,33\", \"1.250.000\"). Go on from the result (\"hasilnya tambah 5\", \"the result times two\") and copy it. Length, weight, volume, cooking, temperature, speed, area, time, data, pressure, energy and fuel economy, with Indonesian units such as the ons. Also flips a coin, rolls dice, picks a random number, splits a bill and works out discounts. Everything is worked out on your computer; only for currencies are the day's rates fetched from Frankfurter, all at once, so what you convert isn't sent. From Hariku 2.11 the first word can be left out: \"25 x 4\", \"2 feet in inches\", \"tambah 5\".",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/calculator.hrk",
       "minimum_core_version": "2.9"
+    },
+    {
+      "id": "ask_hariku",
+      "name": "Ask Hariku",
+      "version": "1.0",
+      "description": "Ask Hariku how to do something, by typing or speaking to Aruna in Indonesian or English: \"tanya hariku gimana cara pasang Orbit\", \"cara pakai timer buat masak mie\", \"how do I set a repeating alarm\". Hariku's AI answers from Hariku's own guides only, and says so when they don't cover it. It can also help Aruna when it doesn't understand you: it suggests what you meant, and Aruna asks you first. Both are off until you turn them on in Preferences, Ask Hariku, and need you to sign in with your InfiArtt account (the Hariku Account Manager extension); each account can ask 50 times a day. Only your question or sentence, its language, your sign-in and the names of Hariku's commands are sent, to Hariku's service on Cloudflare Workers AI, which keeps only a daily count. You can also point it at a copy of the service you run yourself.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/ask_hariku.hrk",
+      "minimum_core_version": "2.11"
     }
   ]
 }
