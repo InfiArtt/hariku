@@ -221,7 +221,7 @@
     {
       "id": "sound_themes",
       "name": "Sound Themes",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "description": "Change the sounds Hariku plays, like a visual theme for your ears. Make themes from your own WAV files, switch between them in Preferences, Sound Themes, or with Shift+S, and import or export them as ZIP files. Hariku 1 sound themes can be imported too. Hariku starts with your theme's start sound.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sound_themes.hrk",
@@ -230,8 +230,8 @@
     {
       "id": "earthquake",
       "name": "Earthquakes & Tsunami",
-      "version": "1.2.2",
-      "description": "Hear BMKG's latest earthquake, browse recent earthquakes in Indonesia (and optionally strong ones worldwide from USGS), and get spoken alerts for earthquakes BMKG says have tsunami potential, and optionally for earthquakes near you or felt in your region. Hariku is not an official warning system: always follow BMKG and your local authorities. Earthquake data by BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) and USGS (no account or API key needed).",
+      "version": "1.3.0",
+      "description": "Hear the latest earthquake near you, browse recent earthquakes, and get spoken alerts for earthquakes near you, using your country's own earthquake agency where it publishes open data: BMKG (Indonesia), MetMalaysia (Malaysia, Brunei and Singapore), TMD (Thailand), JMA (Japan), Geoscience Australia, GeoNet (New Zealand), and USGS everywhere else. In Indonesia it also announces earthquakes BMKG says have tsunami potential, and optionally those felt in your region; anywhere, optionally strong earthquakes worldwide from USGS. Hariku is not an official warning system: always follow your national warning agency and local authorities. No account or API key needed, and your location never leaves your computer.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/earthquake.hrk",
       "minimum_core_version": "2.8"
@@ -370,6 +370,15 @@
       "description": "A multiple-choice quiz played with the keyboard and your screen reader, in English or Indonesian (\"Kuis\"). Pick a category (geography, history, science, Indonesian culture, entertainment and more), a difficulty and how many questions; each question and its answers are read out, press 1 to 5 or A to E to answer, and hear right or wrong in Hariku's persona. A daily quiz with the same five questions for everyone, a streak, and best scores per category. Start it from the Extensions menu or tell Aruna \"play trivia\", \"trivia science\" or \"quiz about geography\". Questions from the Open Trivia Database (CC BY-SA 4.0) and Wikidata (CC0) come with it and play offline, with culture questions written for Hariku; an optional IndoMMLU pack (CC BY-NC-SA 4.0, non-commercial) adds Indonesian school and local-culture questions when you ask for it. Nothing is sent anywhere unless you turn on fresh online questions.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/trivia.hrk",
+      "minimum_core_version": "2.9"
+    },
+    {
+      "id": "wild_encounters",
+      "name": "Wild Encounters",
+      "version": "1.0",
+      "description": "A sweet, ambient Pokémon fan extension, not a game: now and then a gentle announcement tells you which Pokémon is around you right now, from the real weather, time of day and moon at your main place (\"It's raining over Batam... a Wingull is gliding just above the rooftops near you\"). No battles, no catching, no grinding. Off until you turn it on in Preferences, Wild Encounters; then about one to three a day, never during your quiet hours. Ask Aruna \"who's around me\", \"tell me about Psyduck\", \"my field journal\" or \"last encounter\" at any time. Everyone you meet goes into your Field Journal, with a sentence to share. English only. Names and facts are fetched from PokéAPI and cached on your computer; the weather comes from Open-Meteo for your main place rounded to about 1 km. Free, with nothing to buy. Wild Encounters is a free, unofficial fan extension. It is not affiliated with, endorsed or sponsored by Nintendo, Game Freak, Creatures or The Pokémon Company. Pokémon and Pokémon character names are trademarks of Nintendo. Data from PokéAPI.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/fan-extensions/wild_encounters.hrk",
       "minimum_core_version": "2.9"
     }
   ]
