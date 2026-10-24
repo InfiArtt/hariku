@@ -375,7 +375,7 @@
     {
       "id": "wild_encounters",
       "name": "Wild Encounters",
-      "version": "1.0",
+      "version": "1.1",
       "description": "A sweet, ambient Pokémon fan extension, not a game: now and then a gentle announcement tells you which Pokémon is around you right now, from the real weather, time of day and moon at your main place (\"It's raining over Batam... a Wingull is gliding just above the rooftops near you\"). No battles, no catching, no grinding. Off until you turn it on in Preferences, Wild Encounters; then about one to three a day, never during your quiet hours. Ask Aruna \"who's around me\", \"tell me about Psyduck\", \"my field journal\" or \"last encounter\" at any time. Everyone you meet goes into your Field Journal, with a sentence to share. English only. Names and facts are fetched from PokéAPI and cached on your computer; the weather comes from Open-Meteo for your main place rounded to about 1 km. Free, with nothing to buy. Wild Encounters is a free, unofficial fan extension. It is not affiliated with, endorsed or sponsored by Nintendo, Game Freak, Creatures or The Pokémon Company. Pokémon and Pokémon character names are trademarks of Nintendo. Data from PokéAPI.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/fan-extensions/wild_encounters.hrk",
