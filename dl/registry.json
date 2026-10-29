@@ -80,7 +80,7 @@
     {
       "id": "markdown_reader",
       "name": "Markdown Reader",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Open, read, and navigate Markdown (.md) files with full screen reader accessibility.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/markdown_reader.hrk",
@@ -122,7 +122,7 @@
     {
       "id": "routines",
       "name": "Routines",
-      "version": "1.1.1",
+      "version": "1.2",
       "description": "iOS-Shortcuts-style automation: run a chain of actions automatically when conditions are met (time, battery, idle, focused app, clipboard, network) — or on demand with Run Now. Manage them from the Routines window.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/routines.hrk",
@@ -140,7 +140,7 @@
     {
       "id": "gcal_integration",
       "name": "Google Calendar Reader",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Read your Google Calendar events inside Hariku. One-way sync: reads from Google, edits stay local.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/gcal_integration.hrk",
@@ -194,7 +194,7 @@
     {
       "id": "account_manager",
       "name": "Hariku Account Manager",
-      "version": "1.1",
+      "version": "1.2",
       "description": "Sign in with your InfiArtt account (infiartt.com). Provides identity for extensions with online features, such as Ask Hariku. Stays signed in: the sign-in is renewed when it is about to run out.",
       "author": "Hariku Core Team",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/account_manager.hrk",
@@ -275,7 +275,7 @@
     {
       "id": "edge_voices",
       "name": "Edge Voices",
-      "version": "1.0.1",
+      "version": "1.1",
       "description": "Adds the Microsoft Edge online neural voices, including the Indonesian voices Ardi and Gadis, to Hariku Voice. Choose them in Preferences, Hariku Voice. The text being read is sent to Microsoft's online speech service, which is meant for the Edge browser and may stop working at any time; Hariku then uses your fallback voice.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/edge_voices.hrk",
@@ -284,7 +284,7 @@
     {
       "id": "piper_voices",
       "name": "Piper Voices",
-      "version": "1.1.1",
+      "version": "1.2",
       "description": "Adds Piper neural voices to Hariku Voice. They speak on this computer, without the internet, and include an Indonesian voice. Download the voices you want in Preferences, Piper Voices; Hariku then also downloads the Piper program once, from GitHub. Each voice shows its size, quality and license before you download it.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/piper_voices.hrk",
@@ -389,6 +389,15 @@
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/bintang_kecil.hrk",
       "minimum_core_version": "2.8"
+    },
+    {
+      "id": "period_tracker",
+      "name": "Period Tracker",
+      "version": "1.0",
+      "description": "Hariku 1's Period Tracker for Hariku 2. Log when a period starts and ends (J on the calendar's date, or the tracker window, Shift+J); Hariku works out your usual cycle and period, predicts the next ones and their fertile windows, says today's day or what is coming in the Morning Briefing and in the calendar, and can remind you to log the end and before the next one. Brings your Hariku 1 records over. English and Indonesian. Everything stays on this computer; predictions are estimates, not medical advice.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/period_tracker.hrk",
+      "minimum_core_version": "2.7"
     }
   ]
 }
