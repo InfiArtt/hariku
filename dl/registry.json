@@ -293,11 +293,11 @@
     {
       "id": "sleep_tracker",
       "name": "Sleep Pattern",
-      "version": "1.0.2",
-      "description": "Estimates when you slept from when you used the computer, like a phone's sleep tracker: hear last night's sleep, see your sleep history and averages, and find out when you stayed up late. Hariku records only whether the keyboard or mouse was used in each minute, never what you typed or which apps you used, and nothing leaves your computer. An estimate, not a medical measurement.",
+      "version": "1.1.0",
+      "description": "Estimates when you slept from when you used the computer, like a phone's sleep tracker: hear last night's sleep, see your sleep history and averages, find out when you stayed up late, and get advice from your own pattern: sleep debt, a moving bedtime, and when to sleep tonight. Months and years, a sleep graph you listen to, CSV export, and history kept as long as you like, forever too. Hariku records only whether the keyboard or mouse was used in each minute, never what you typed or which apps you used, and nothing leaves your computer. An estimate, not a medical measurement.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/sleep_tracker.hrk",
-      "minimum_core_version": "2.7"
+      "minimum_core_version": "2.9"
     },
     {
       "id": "voice_control",
