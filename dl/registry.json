@@ -312,8 +312,8 @@
     {
       "id": "timer_alarm",
       "name": "Timer & Alarm",
-      "version": "1.0.4",
-      "description": "Set alarms and timers by typing or speaking to Aruna, in English or Indonesian: \"alarm tomorrow at 5 AM\", \"set alarm tomorrow at 6 for the gym\", \"wake me up at 6\", \"timer noodles 3 minutes\". Aruna reads each alarm back with its day, date and time of day before setting it. Alarms and timers ring with a Windows alarm sound and say what they are, even with Hariku in the tray; press any key to stop, or say \"snooze\". Manage them and choose the sounds in Preferences. Everything stays on your computer.",
+      "version": "1.0.5",
+      "description": "Set alarms and timers by typing or speaking to Aruna, in English or Indonesian: \"alarm tomorrow at 5 AM\", \"set alarm tomorrow at 6 for the gym\", \"wake me up at 6\", \"timer noodles 3 minutes\". Aruna reads each alarm back with its day, date and time of day before setting it. Alarms and timers ring with a Windows alarm sound and say what they are, even with Hariku in the tray; press any key to stop, or say \"snooze\". Manage them and choose the sounds in Preferences, including ringtones you make with Ringtone Maker. Everything stays on your computer.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/timer_alarm.hrk",
       "minimum_core_version": "2.9"
@@ -407,6 +407,15 @@
       "description": "A little pet that lives in your calendar and reacts to your day. Adopt a kitten, puppy, bunny, hamster, songbird, owlet, fox cub, otter pup or pixie, or one of three dragons: a grumpy elder, a cheeky young one or a cool ice dragon. Every pet has its own sounds and hundreds of things to say in its own voice. It says good morning, notices how you slept (with Sleep Pattern), cheers when you finish a reminder, celebrates your birthday, brings gifts, asks for things and reminds you to stretch. Feed it (not every minute!), give it snacks, play, cuddle, play hide and seek by sound, let it keep you company while you work, and read the diary it writes every night. It grows up, calls you by a name that grows with your friendship, gets visits from friends, and notices the weather. Poke it too much or leave it hungry and it sulks until you say sorry. It never gets ill and never leaves. It talks by itself only a few times a day, never during your quiet hours, and waits until you pause. Ask Aruna \"how is my pet\", \"feed my pet\" or use its name: \"sorry Mochi\". English for now. Everything stays on your computer.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/calendar_pet.hrk",
+      "minimum_core_version": "2.9"
+    },
+    {
+      "id": "ringtone_maker",
+      "name": "Ringtone Maker",
+      "version": "1.0.0",
+      "description": "Make your own ringtones from scratch. Choose a scale (major or minor pentatonic like Bintang Kecil, blues, major, minor, harmonic minor, dorian, lydian, mixolydian, Japanese hirajoshi, or the Javanese gamelan tunings slendro and pelog), a key, a mood (lullaby, calm, dreamy, cheerful, playful, lively, jazzy, waltz) and an instrument, and it writes a real tune for you: a melody with an idea that repeats and grows, chords under it, a bass, broken chords, swing, even a small gamelan. Press F5 to hear it, Ctrl+N for another tune, or make one from a name. Keep the ones you like and use them for your reminders (with Sound Themes), alarms and timers (with Timer & Alarm), or export them as WAV. Everything is made on your computer.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/ringtone_maker.hrk",
       "minimum_core_version": "2.9"
     }
   ]
