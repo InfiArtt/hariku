@@ -376,7 +376,7 @@
     {
       "id": "wild_encounters",
       "name": "Wild Encounters",
-      "version": "1.2",
+      "version": "1.2.1",
       "description": "A sweet, ambient Pokémon fan extension, not a game: now and then a gentle announcement tells you which Pokémon is around you right now, from the real weather, time of day and moon at your main place (\"It's raining over Batam... a Wingull is gliding just above the rooftops near you\"). No battles, no catching, no grinding. Off until you turn it on in Preferences, Wild Encounters; then about one to three a day, never during your quiet hours. Ask Aruna \"who's around me\", \"tell me about Psyduck\", \"my field journal\" or \"last encounter\" at any time. Everyone you meet goes into your Field Journal, with a sentence to share. English only. Names and facts are fetched from PokéAPI and cached on your computer; the weather comes from Open-Meteo for your main place rounded to about 1 km. Free, with nothing to buy. Wild Encounters is a free, unofficial fan extension. It is not affiliated with, endorsed or sponsored by Nintendo, Game Freak, Creatures or The Pokémon Company. Pokémon and Pokémon character names are trademarks of Nintendo. Data from PokéAPI.",
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/fan-extensions/wild_encounters.hrk",
@@ -399,6 +399,15 @@
       "author": "Rafli",
       "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/period_tracker.hrk",
       "minimum_core_version": "2.7"
+    },
+    {
+      "id": "calendar_pet",
+      "name": "Calendar Pet",
+      "version": "1.0",
+      "description": "A little pet that lives in your calendar and reacts to your day. Adopt a kitten, puppy, bunny, hamster, songbird, owlet, fox cub, otter pup, pixie or a small, very proud dragon and give it a name. Every pet has its own sounds and its own way of talking. It says good morning, notices how you slept (with Sleep Pattern), cheers when you finish a reminder, worries a little about one you keep snoozing, celebrates your birthday and the day you adopted it, sometimes brings you a gift and reminds you to stretch. Feed it, play with it and cuddle it, and as you become better friends it learns tricks. It never gets ill and never leaves. It talks by itself only a few times a day, never during your quiet hours, and waits until you pause so it doesn't talk over your screen reader. Ask Aruna \"how is my pet\", \"feed my pet\" or use its name: \"cuddle Mochi\". English for now. Everything stays on your computer.",
+      "author": "Rafli",
+      "download_url": "https://github.com/InfiArtt/hariku/releases/download/extensions/calendar_pet.hrk",
+      "minimum_core_version": "2.9"
     }
   ]
 }
